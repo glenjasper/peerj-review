@@ -1,0 +1,11 @@
+Method	Domain	Crude Oil	FLU	HEX	OIL	PD5	PD6	PF7	PHE	PHE+FLU	PHE+HEX	PHE+OIL	PHE+PYR	PYR	FAR_Island_C	NOR_Island_C	NOR_Island_W	PRI_Island_W	SAN_Island_W	Control_W	Control_S	Soil_Env	Soil_MC	Water_Env	Water_MC	Coral_Env
+Culture	Archaea	0																			6.1	0	0	0	0	0
+Culture	Bacteria	100	27112	43221	71778				15790	41138	20857	21843	37842	28335						139809	93.9	0	100	0	307916	0
+Culture	Fungi	100																			100	0	100	0	0	0
+Environmental	Archaea					37	0	42							149	273	21	91	83			79	0	195	0	422
+Environmental	Bacteria					27598	23165	32752							2834	10798	12538	20520	16122			83515	0	49180	0	13632
+Environmental	Chromista					69	9	39														117	0	0	0	0
+Environmental	Fungi					157079	114224	155269							54	254	16	36	53			426572	0	105	0	308
+Environmental	Metazoa					18	39	27														84	0	0	0	0
+Environmental	Plantae					342	437	186							4	6		6	14			965	0	20	0	10
+Environmental	Protozoa					0	34	27														61	0	0	0	0

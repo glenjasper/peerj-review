@@ -1,0 +1,1918 @@
+Method	Domain	Species	PD5	PD6	PF7	FAR_Island_C	NOR_Island_C	NOR_Island_W	PRI_Island_W	SAN_Island_W	Soil_Env	Soil_MC	Water_Env	Water_MC	Coral_Env
+Environmental	Archaea	Aciduliprofundum boonei				0	7	0	0	1	0	0	1	0	7
+Environmental	Archaea	Archaeoglobus fulgidus				5	2	0	0	0	0	0	0	0	7
+Environmental	Archaea	Archaeoglobus profundus				0	1	0	3	2	0	0	5	0	1
+Environmental	Archaea	Caldivirga maquilingensis				0	1	0	0	1	0	0	1	0	1
+Environmental	Archaea	Candidatus Korarchaeum cryptofilum				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	Candidatus Nitrososphaera gargensis				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	Cenarchaeum symbiosum				12	23	1	0	3	0	0	4	0	35
+Environmental	Archaea	Desulfurococcus amylolyticus				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	Desulfurococcus mucosus				0	1	0	0	1	0	0	1	0	1
+Environmental	Archaea	Ferroglobus placidus				0	2	0	1	0	0	0	1	0	2
+Environmental	Archaea	Haladaptatus paucihalophilus				0	7	0	0	0	0	0	0	0	7
+Environmental	Archaea	Halalkalicoccus jeotgali				0	9	0	0	2	0	0	2	0	9
+Environmental	Archaea	Haloarcula marismortui				0	5	0	0	2	0	0	2	0	5
+Environmental	Archaea	Halobacterium salinarum				3	1	0	2	2	0	0	4	0	4
+Environmental	Archaea	Haloferax volcanii				0	6	0	0	6	0	0	6	0	6
+Environmental	Archaea	Halogeometricum borinquense				2	7	0	1	1	0	0	2	0	9
+Environmental	Archaea	Halomicrobium mukohataei				0	2	1	0	1	0	0	2	0	2
+Environmental	Archaea	Halorubrum lacusprofundi				3	1	0	0	0	0	0	0	0	4
+Environmental	Archaea	Haloterrigena turkmenica				3	2	0	0	0	0	0	0	0	5
+Environmental	Archaea	Ignicoccus hospitalis				0	2	0	0	0	0	0	0	0	2
+Environmental	Archaea	Ignisphaera aggregans				0	0	0	0	1	0	0	1	0	0
+Environmental	Archaea	Metallosphaera sedula				0	0	0	1	0	0	0	1	0	0
+Environmental	Archaea	Methanobrevibacter ruminantium				0	3	1	1	0	0	0	2	0	3
+Environmental	Archaea	Methanobrevibacter smithii				0	0	1	0	0	0	0	1	0	0
+Environmental	Archaea	Methanocaldococcus fervens				0	1	0	2	0	0	0	2	0	1
+Environmental	Archaea	Methanocaldococcus jannaschii				0	5	0	0	2	0	0	2	0	5
+Environmental	Archaea	Methanocaldococcus sp. FS406-22				0	0	0	1	0	0	0	1	0	0
+Environmental	Archaea	Methanocaldococcus vulcanius				0	2	0	0	0	0	0	0	0	2
+Environmental	Archaea	Methanococcoides burtonii				1	0	0	3	1	0	0	4	0	1
+Environmental	Archaea	Methanococcus aeolicus				2	1	0	2	3	0	0	5	0	3
+Environmental	Archaea	Methanococcus maripaludis				0	1	1	1	0	0	0	2	0	1
+Environmental	Archaea	Methanococcus vannielii				0	3	0	0	0	0	0	0	0	3
+Environmental	Archaea	Methanococcus voltae				0	0	0	1	0	0	0	1	0	0
+Environmental	Archaea	Methanocorpusculum labreanum				2	2	0	0	0	0	0	0	0	4
+Environmental	Archaea	Methanoculleus marisnigri				0	7	0	3	1	0	0	4	0	7
+Environmental	Archaea	Methanohalobium evestigatum				3	4	0	3	1	0	0	4	0	7
+Environmental	Archaea	Methanohalophilus mahii				2	0	0	4	0	0	0	4	0	2
+Environmental	Archaea	Methanolacinia petrolearia				0	0	0	2	1	0	0	3	0	0
+Environmental	Archaea	Methanopyrus kandleri				0	3	0	4	0	0	0	4	0	3
+Environmental	Archaea	Methanoregula boonei				2	4	1	2	1	0	0	4	0	6
+Environmental	Archaea	Methanosaeta harundinacea				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	Methanosarcina acetivorans				1	10	1	2	5	0	0	8	0	11
+Environmental	Archaea	Methanosarcina barkeri				0	6	0	0	5	0	0	5	0	6
+Environmental	Archaea	Methanosarcina mazei				3	3	3	4	0	0	0	7	0	6
+Environmental	Archaea	Methanosphaera stadtmanae				2	0	0	0	0	0	0	0	0	2
+Environmental	Archaea	Methanosphaerula palustris				0	7	0	0	0	0	0	0	0	7
+Environmental	Archaea	Methanospirillum hungatei				1	9	1	2	1	0	0	4	0	10
+Environmental	Archaea	Methanothermobacter marburgensis				0	0	1	0	0	0	0	1	0	0
+Environmental	Archaea	Methanothermobacter thermautotrophicus				0	3	0	0	0	0	0	0	0	3
+Environmental	Archaea	Methanothermus fervidus				0	2	0	3	0	0	0	3	0	2
+Environmental	Archaea	Methanothrix thermoacetophila				0	3	0	0	0	0	0	0	0	3
+Environmental	Archaea	Natrialba magadii				2	3	0	2	4	0	0	6	0	5
+Environmental	Archaea	Nitrosopumilus maritimus				54	38	3	3	6	0	0	12	0	92
+Environmental	Archaea	Picrophilus torridus				1	1	1	2	4	0	0	7	0	2
+Environmental	Archaea	Pyrobaculum arsenaticum				0	3	0	0	0	0	0	0	0	3
+Environmental	Archaea	Pyrobaculum calidifontis				0	3	0	0	0	0	0	0	0	3
+Environmental	Archaea	Pyrobaculum islandicum				1	3	0	0	0	0	0	0	0	4
+Environmental	Archaea	Pyrobaculum neutrophilum				0	2	0	0	0	0	0	0	0	2
+Environmental	Archaea	Pyrococcus furiosus				0	2	0	1	2	0	0	3	0	2
+Environmental	Archaea	Staphylothermus marinus				0	1	0	1	1	0	0	2	0	1
+Environmental	Archaea	Sulfolobus acidocaldarius				1	0	0	4	0	0	0	4	0	1
+Environmental	Archaea	Sulfolobus islandicus				4	4	2	0	0	0	0	2	0	8
+Environmental	Archaea	Sulfolobus solfataricus				0	0	0	4	1	0	0	5	0	0
+Environmental	Archaea	Thermococcus barophilus				2	5	0	3	1	0	0	4	0	7
+Environmental	Archaea	Thermococcus gammatolerans				0	2	0	4	0	0	0	4	0	2
+Environmental	Archaea	Thermococcus onnurineus				2	1	0	0	2	0	0	2	0	3
+Environmental	Archaea	Thermococcus sibiricus				0	3	0	1	1	0	0	2	0	3
+Environmental	Archaea	Thermococcus sp. AM4				2	2	0	0	0	0	0	0	0	4
+Environmental	Archaea	Thermofilum pendens				2	0	1	0	0	0	0	1	0	2
+Environmental	Archaea	Thermoplasma acidophilum				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	Thermosphaera aggregans				0	2	0	0	0	0	0	0	0	2
+Environmental	Archaea	uncultured archaeon GZfos26D6				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured archaeon GZfos34G5				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured archaeon GZfos9D1				0	1	0	1	0	0	0	1	0	1
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S04-C14				0	0	0	2	1	0	0	3	0	0
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S04-C140				0	0	0	1	1	0	0	2	0	0
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S04-C163				0	0	0	1	1	0	0	2	0	0
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S04-C246				0	0	0	1	1	0	0	2	0	0
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S05-C10				0	0	0	0	1	0	0	1	0	0
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S08-C282				0	0	0	0	1	0	0	1	0	0
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S08-C37				0	0	1	1	0	0	0	2	0	0
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S09-C50				0	0	0	3	0	0	0	3	0	0
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S11-C441				0	0	0	1	1	0	0	2	0	0
+Environmental	Archaea	uncultured archaeon MedDCM-OCT-S11-C473				0	0	0	0	1	0	0	1	0	0
+Environmental	Archaea	uncultured crenarchaeote				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured crenarchaeote 74A4				3	1	0	0	0	0	0	0	0	4
+Environmental	Archaea	uncultured haloarchaeon				1	1	0	0	0	0	0	0	0	2
+Environmental	Archaea	uncultured haloarchaeon FLAS10H9				0	0	1	0	0	0	0	1	0	0
+Environmental	Archaea	uncultured marine crenarchaeote AD1000-202-A2				0	1	0	0	1	0	0	1	0	1
+Environmental	Archaea	uncultured marine crenarchaeote AD1000-207-H3				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW133C7				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW133I6				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW137N13				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW137N18				2	0	0	0	0	0	0	0	0	2
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW141M18				1	1	0	0	0	0	0	0	0	2
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW141N1				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW93E5				2	1	0	0	0	0	0	0	0	3
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW93H17				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW93I24				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW97J3				1	1	0	0	0	0	0	0	0	2
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW97M7				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_ANIW97P9				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG10D8				0	4	0	0	0	0	0	0	0	4
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG10F15				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG10L15				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG2O16				3	2	0	0	0	0	0	0	0	5
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG3D24				1	0	0	0	1	0	0	1	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG3K8				0	2	0	0	0	0	0	0	0	2
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG5B22				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG5C13				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG5N21				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG6B14				1	1	0	0	1	0	0	1	0	2
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG6D3				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG6D9				3	2	0	0	0	0	0	0	0	5
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG6J21				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG7F11				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG7F19				0	0	0	1	0	0	0	1	0	0
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG8D22				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG8D6				1	0	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG8I13				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine crenarchaeote HF4000_APKG9M20				0	4	0	0	0	0	0	0	0	4
+Environmental	Archaea	uncultured marine crenarchaeote KM3-47-D6				0	1	0	0	0	0	0	0	0	1
+Environmental	Archaea	uncultured marine group II euryarchaeote 37F11				0	0	0	0	2	0	0	2	0	0
+Environmental	Archaea	uncultured marine group II euryarchaeote DeepAnt-15E7				0	0	0	0	2	0	0	2	0	0
+Environmental	Archaea	uncultured marine group II euryarchaeote EF100_57A08				0	0	0	2	0	0	0	2	0	0
+Environmental	Archaea	uncultured marine group II euryarchaeote KM3-130-D10				0	0	0	0	1	0	0	1	0	0
+Environmental	Archaea	uncultured marine group II euryarchaeote KM3-85-F5				0	0	0	1	1	0	0	2	0	0
+Environmental	Archaea	uncultured marine group III euryarchaeote KM3-28-E8				0	1	0	1	0	0	0	1	0	1
+Environmental	Archaea	uncultured marine group III euryarchaeote SAT1000-53-B3				0	0	0	2	0	0	0	2	0	0
+Environmental	Archaea	Vulcanisaeta distributa				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Acaryochloris marina				15	32	5	21	26	0	0	52	0	47
+Environmental	Bacteria	Acetivibrio cellulolyticus				2	7	0	3	5	0	0	8	0	9
+Environmental	Bacteria	Acetohalobium arabaticum				0	13	0	6	3	0	0	9	0	13
+Environmental	Bacteria	Acetomicrobium hydrogeniformans				0	10	0	0	5	0	0	5	0	10
+Environmental	Bacteria	Acholeplasma laidlawii				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Achromobacter lyticus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Achromobacter piechaudii				3	8	3	5	6	0	0	14	0	11
+Environmental	Bacteria	Achromobacter sp. BP3				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Achromobacter xylosoxidans				6	22	6	15	19	0	0	40	0	28
+Environmental	Bacteria	Acidaminococcus fermentans				0	11	0	0	1	0	0	1	0	11
+Environmental	Bacteria	Acidaminococcus sp. D21				1	2	2	0	0	0	0	2	0	3
+Environmental	Bacteria	Acidimicrobium ferrooxidans				0	10	1	5	0	0	0	6	0	10
+Environmental	Bacteria	Acidiphilium cryptum				4	29	11	27	20	0	0	58	0	33
+Environmental	Bacteria	Acidithiobacillus caldus				0	2	0	5	0	0	0	5	0	2
+Environmental	Bacteria	Acidithiobacillus ferrooxidans				5	5	3	4	10	0	0	17	0	10
+Environmental	Bacteria	Acidobacterium capsulatum				5	23	0	5	2	0	0	7	0	28
+Environmental	Bacteria	Acidobacterium sp. MP5ACTX9				4	20	1	0	0	0	0	1	0	24
+Environmental	Bacteria	Acidothermus cellulolyticus				0	12	1	7	0	0	0	8	0	12
+Environmental	Bacteria	Acidovorax avenae				0	3	0	3	6	0	0	9	0	3
+Environmental	Bacteria	Acidovorax citrulli				2	7	7	6	7	0	0	20	0	9
+Environmental	Bacteria	Acidovorax delafieldii				0	1	2	4	1	0	0	7	0	1
+Environmental	Bacteria	Acidovorax sp. JS42				5	8	6	8	9	0	0	23	0	13
+Environmental	Bacteria	Acinetobacter baumannii				4	8	29	18	24	0	0	71	0	12
+Environmental	Bacteria	Acinetobacter calcoaceticus				0	1	8	3	4	0	0	15	0	1
+Environmental	Bacteria	Acinetobacter haemolyticus				2	2	4	11	1	0	0	16	0	4
+Environmental	Bacteria	Acinetobacter johnsonii				0	1	17	7	5	0	0	29	0	1
+Environmental	Bacteria	Acinetobacter junii				1	2	7	4	3	0	0	14	0	3
+Environmental	Bacteria	Acinetobacter lwoffii				0	5	11	4	5	0	0	20	0	5
+Environmental	Bacteria	Acinetobacter nosocomialis				0	1	6	0	2	0	0	8	0	1
+Environmental	Bacteria	Acinetobacter oleivorans				0	2	5	5	3	0	0	13	0	2
+Environmental	Bacteria	Acinetobacter pittii				0	3	7	3	3	0	0	13	0	3
+Environmental	Bacteria	Acinetobacter radioresistens				0	1	10	10	5	0	0	25	0	1
+Environmental	Bacteria	Acinetobacter sp. ADP1				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Acinetobacter sp. ATCC 27244				0	0	9	10	4	0	0	23	0	0
+Environmental	Bacteria	Acinetobacter sp. NFM2				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Actinoallomurus spadix				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Actinobacillus lignieresii				1	3	3	11	9	0	0	23	0	4
+Environmental	Bacteria	Actinobacillus minor				1	2	5	6	2	0	0	13	0	3
+Environmental	Bacteria	Actinobacillus succinogenes				1	0	11	9	5	0	0	25	0	1
+Environmental	Bacteria	Actinobacillus ureae				0	0	3	0	0	0	0	3	0	0
+Environmental	Bacteria	Actinomadura kijaniata				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Actinomyces coleocanis				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Actinomyces odontolyticus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Actinomyces sp. oral taxon 171				1	1	0	2	0	0	0	2	0	2
+Environmental	Bacteria	Actinomyces sp. oral taxon 178				0	0	0	3	0	0	0	3	0	0
+Environmental	Bacteria	Actinomyces sp. oral taxon 848				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Actinomyces urogenitalis				0	2	0	1	0	0	0	1	0	2
+Environmental	Bacteria	Actinosynnema mirum				2	25	2	0	6	0	0	8	0	27
+Environmental	Bacteria	Aerococcus viridans				0	1	1	0	0	0	0	1	0	1
+Environmental	Bacteria	Aeromicrobium marinum				0	9	0	0	7	0	0	7	0	9
+Environmental	Bacteria	Aeromonas caviae				0	0	0	0	3	0	0	3	0	0
+Environmental	Bacteria	Aeromonas encheleia				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Aeromonas hydrophila				3	6	30	21	19	0	0	70	0	9
+Environmental	Bacteria	Aeromonas molluscorum				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Aeromonas salmonicida				0	9	31	29	24	0	0	84	0	9
+Environmental	Bacteria	Aeromonas veronii				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Afipia sp. 1NLS2				3	7	4	11	8	0	0	23	0	10
+Environmental	Bacteria	Agathobacter rectalis				2	0	0	0	1	0	0	1	0	2
+Environmental	Bacteria	Aggregatibacter actinomycetemcomitans				0	0	6	6	5	0	0	17	0	0
+Environmental	Bacteria	Aggregatibacter aphrophilus				0	0	4	7	1	0	0	12	0	0
+Environmental	Bacteria	Aggregatibacter segnis				0	1	3	3	0	0	0	6	0	1
+Environmental	Bacteria	Agrobacterium tumefaciens				5	32	16	54	45	0	0	115	0	37
+Environmental	Bacteria	Ahrensia sp. R2A130				2	10	7	17	17	0	0	41	0	12
+Environmental	Bacteria	Akkermansia muciniphila				3	11	1	2	4	0	0	7	0	14
+Environmental	Bacteria	Alcaligenes faecalis				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	Alcanivorax sp. DG881				4	14	16	20	65	0	0	101	0	18
+Environmental	Bacteria	Algoriphagus sp. PR1				3	28	3	18	28	0	0	49	0	31
+Environmental	Bacteria	Alicycliphilus denitrificans				0	10	2	5	6	0	0	13	0	10
+Environmental	Bacteria	Alicyclobacillus acidocaldarius				2	12	1	2	0	0	0	3	0	14
+Environmental	Bacteria	Aliivibrio fischeri				7	8	87	36	27	0	0	150	0	15
+Environmental	Bacteria	Aliivibrio salmonicida				0	0	1	1	0	0	0	2	0	0
+Environmental	Bacteria	Alistipes putredinis				0	2	0	4	7	0	0	11	0	2
+Environmental	Bacteria	Alistipes sp. HGB5				0	8	0	2	1	0	0	3	0	8
+Environmental	Bacteria	Alkalilimnicola ehrlichii				9	16	14	18	19	0	0	51	0	25
+Environmental	Bacteria	Alkaliphilus metalliredigens				2	4	3	7	4	0	0	14	0	6
+Environmental	Bacteria	Alkaliphilus oremlandii				0	3	0	7	5	0	0	12	0	3
+Environmental	Bacteria	Allochromatium vinosum				6	12	1	15	15	0	0	31	0	18
+Environmental	Bacteria	Alloprevotella tannerae				0	3	0	0	4	0	0	4	0	3
+Environmental	Bacteria	Allorhizobium borbori				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Allorhizobium vitis				7	3	1	23	16	0	0	40	0	10
+Environmental	Bacteria	Alteromonadales bacterium TW-7				3	3	619	279	43	0	0	941	0	6
+Environmental	Bacteria	Alteromonas macleodii				2	12	264	354	559	0	0	1177	0	14
+Environmental	Bacteria	Alteromonas sp.				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Aminobacterium colombiense				0	4	0	1	0	0	0	1	0	4
+Environmental	Bacteria	Aminomonas paucivorans				2	4	0	1	0	0	0	1	0	6
+Environmental	Bacteria	Ammonifex degensii				1	5	1	3	7	0	0	11	0	6
+Environmental	Bacteria	Amoebophilus asiaticus				0	3	1	0	4	0	0	5	0	3
+Environmental	Bacteria	Amycolatopsis mediterranei				6	8	3	5	8	0	0	16	0	14
+Environmental	Bacteria	Anabaena variabilis				18	34	5	21	24	0	0	50	0	52
+Environmental	Bacteria	Anaerococcus lactolyticus				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	Anaerococcus prevotii				2	2	1	1	2	0	0	4	0	4
+Environmental	Bacteria	Anaerococcus tetradius				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Anaerococcus vaginalis				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Anaerofustis stercorihominis				0	0	0	3	0	0	0	3	0	0
+Environmental	Bacteria	Anaeromyxobacter dehalogenans				11	28	5	7	20	0	0	32	0	39
+Environmental	Bacteria	Anaeromyxobacter sp. Fw109-5				5	40	0	3	12	0	0	15	0	45
+Environmental	Bacteria	Anaeromyxobacter sp. K				5	13	2	3	3	0	0	8	0	18
+Environmental	Bacteria	Anaerostipes caccae				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Anaerotruncus colihominis				0	1	1	2	1	0	0	4	0	1
+Environmental	Bacteria	Anaplasma centrale				0	1	1	3	0	0	0	4	0	1
+Environmental	Bacteria	Anaplasma marginale				0	3	3	5	0	0	0	8	0	3
+Environmental	Bacteria	Anaplasma phagocytophilum				0	1	0	5	3	0	0	8	0	1
+Environmental	Bacteria	Anoxybacillus flavithermus				3	6	0	6	2	0	0	8	0	9
+Environmental	Bacteria	Aphanizomenon flosaquae				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Aphanizomenon sp. NH-5				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Aplysina aerophoba bacterial symbiont clone pAE27P20				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Aplysina aerophoba bacterial symbiont clone pAPKS18				0	7	0	0	0	0	0	0	0	7
+Environmental	Bacteria	Aquifex aeolicus				2	2	0	6	3	0	0	9	0	4
+Environmental	Bacteria	Arcanobacterium haemolyticum				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Arcobacter butzleri				1	1	11	5	4	0	0	20	0	2
+Environmental	Bacteria	Arcobacter nitrofigilis				0	2	20	9	3	0	0	32	0	2
+Environmental	Bacteria	Arthrobacter sp. FB24				2	8	1	2	0	0	0	3	0	10
+Environmental	Bacteria	Arthrospira maxima				12	30	0	13	14	0	0	27	0	42
+Environmental	Bacteria	Aster yellows phytoplasma				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Asticcacaulis excentricus				2	8	6	17	20	0	0	43	0	10
+Environmental	Bacteria	Atopobium parvulum				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Atopobium rimae				1	1	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Atopobium vaginae				1	0	0	1	0	0	0	1	0	1
+Environmental	Bacteria	Aurantimonas manganoxydans				4	24	7	29	25	0	0	61	0	28
+Environmental	Bacteria	Azospirillum brasilense				0	1	1	0	1	0	0	2	0	1
+Environmental	Bacteria	Azotobacter vinelandii				0	13	18	15	17	0	0	50	0	13
+Environmental	Bacteria	Bacillus amyloliquefaciens				2	3	1	1	5	0	0	7	0	5
+Environmental	Bacteria	Bacillus anthracis				3	6	1	3	2	0	0	6	0	9
+Environmental	Bacteria	Bacillus atrophaeus				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Bacillus cellulosilyticus				1	5	1	6	7	0	0	14	0	6
+Environmental	Bacteria	Bacillus cereus				10	23	8	22	13	0	0	43	0	33
+Environmental	Bacteria	Bacillus coagulans				0	5	1	0	2	0	0	3	0	5
+Environmental	Bacteria	Bacillus cytotoxicus				0	1	3	2	1	0	0	6	0	1
+Environmental	Bacteria	Bacillus firmus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Bacillus halodurans				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Bacillus licheniformis				0	6	1	4	5	0	0	10	0	6
+Environmental	Bacteria	Bacillus megaterium				5	10	0	6	6	0	0	12	0	15
+Environmental	Bacteria	Bacillus mycoides				0	1	0	2	1	0	0	3	0	1
+Environmental	Bacteria	Bacillus pseudofirmus				0	4	4	8	0	0	0	12	0	4
+Environmental	Bacteria	Bacillus pseudomycoides				0	0	0	1	2	0	0	3	0	0
+Environmental	Bacteria	Bacillus pumilus				0	7	1	6	2	0	0	9	0	7
+Environmental	Bacteria	Bacillus selenitireducens				0	3	2	3	3	0	0	8	0	3
+Environmental	Bacteria	Bacillus sp. 2_A_57_CT2				2	7	1	5	1	0	0	7	0	9
+Environmental	Bacteria	Bacillus sp. B14905				1	2	0	0	0	0	0	0	0	3
+Environmental	Bacteria	Bacillus sp. BR449				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Bacillus sp. BT1B_CT2				0	2	1	4	7	0	0	12	0	2
+Environmental	Bacteria	Bacillus sp. NRRL B-14911				0	10	0	5	8	0	0	13	0	10
+Environmental	Bacteria	Bacillus sp. SG-1				1	6	1	3	0	0	0	4	0	7
+Environmental	Bacteria	Bacillus sp. TA2.A1				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Bacillus sp. WBC-3				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Bacillus subtilis				1	13	3	5	4	0	0	12	0	14
+Environmental	Bacteria	Bacillus thuringiensis				2	12	4	9	9	0	0	22	0	14
+Environmental	Bacteria	Bacillus weihenstephanensis				0	2	2	3	2	0	0	7	0	2
+Environmental	Bacteria	Bacteroides caccae				0	5	0	3	4	0	0	7	0	5
+Environmental	Bacteria	Bacteroides cellulosilyticus				0	8	1	0	6	0	0	7	0	8
+Environmental	Bacteria	Bacteroides coprocola				0	0	0	0	8	0	0	8	0	0
+Environmental	Bacteria	Bacteroides coprophilus				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Bacteroides dorei				0	6	1	2	6	0	0	9	0	6
+Environmental	Bacteria	Bacteroides eggerthii				1	4	0	0	5	0	0	5	0	5
+Environmental	Bacteria	Bacteroides finegoldii				0	2	0	3	2	0	0	5	0	2
+Environmental	Bacteria	Bacteroides fragilis				0	2	0	0	1	0	0	1	0	2
+Environmental	Bacteria	Bacteroides helcogenes				0	1	0	1	2	0	0	3	0	1
+Environmental	Bacteria	Bacteroides intestinalis				0	5	2	2	8	0	0	12	0	5
+Environmental	Bacteria	Bacteroides ovatus				0	14	0	9	8	0	0	17	0	14
+Environmental	Bacteria	Bacteroides pectinophilus				0	0	1	1	3	0	0	5	0	0
+Environmental	Bacteria	Bacteroides plebeius				0	0	2	2	0	0	0	4	0	0
+Environmental	Bacteria	Bacteroides sp. 1_1_14				0	6	1	6	8	0	0	15	0	6
+Environmental	Bacteria	Bacteroides sp. 1_1_6				0	4	1	8	7	0	0	16	0	4
+Environmental	Bacteria	Bacteroides sp. 2_1_16				2	0	2	3	6	0	0	11	0	2
+Environmental	Bacteria	Bacteroides sp. 2_1_22				1	2	0	6	2	0	0	8	0	3
+Environmental	Bacteria	Bacteroides sp. 2_1_33B				0	6	0	2	5	0	0	7	0	6
+Environmental	Bacteria	Bacteroides sp. 2_2_4				0	1	0	0	5	0	0	5	0	1
+Environmental	Bacteria	Bacteroides sp. 20_3				0	1	0	3	7	0	0	10	0	1
+Environmental	Bacteria	Bacteroides sp. 3_1_19				0	6	0	1	12	0	0	13	0	6
+Environmental	Bacteria	Bacteroides sp. 3_1_23				0	0	0	0	6	0	0	6	0	0
+Environmental	Bacteria	Bacteroides sp. 3_1_33FAA				0	1	0	2	4	0	0	6	0	1
+Environmental	Bacteria	Bacteroides sp. 3_1_40A				1	6	0	1	8	0	0	9	0	7
+Environmental	Bacteria	Bacteroides sp. 3_2_5				0	9	1	2	7	0	0	10	0	9
+Environmental	Bacteria	Bacteroides sp. 4_1_36				1	1	0	2	2	0	0	4	0	2
+Environmental	Bacteria	Bacteroides sp. 4_3_47FAA				1	5	0	1	9	0	0	10	0	6
+Environmental	Bacteria	Bacteroides sp. 9_1_42FAA				0	3	0	3	5	0	0	8	0	3
+Environmental	Bacteria	Bacteroides sp. D1				0	0	0	6	2	0	0	8	0	0
+Environmental	Bacteria	Bacteroides sp. D2				0	2	0	2	2	0	0	4	0	2
+Environmental	Bacteria	Bacteroides sp. D20				0	2	1	2	6	0	0	9	0	2
+Environmental	Bacteria	Bacteroides sp. D22				0	0	0	3	1	0	0	4	0	0
+Environmental	Bacteria	Bacteroides stercoris				0	1	2	0	5	0	0	7	0	1
+Environmental	Bacteria	Bacteroides thetaiotaomicron				0	10	3	10	10	0	0	23	0	10
+Environmental	Bacteria	Bacteroides uniformis				2	2	0	3	8	0	0	11	0	4
+Environmental	Bacteria	Bacteroides vulgatus				2	13	1	1	22	0	0	24	0	15
+Environmental	Bacteria	Bacteroides xylanisolvens				1	4	0	6	1	0	0	7	0	5
+Environmental	Bacteria	Bacteroidetes oral taxon 274				1	0	0	0	4	0	0	4	0	1
+Environmental	Bacteria	Bartonella bacilliformis				0	3	5	22	14	0	0	41	0	3
+Environmental	Bacteria	Bartonella clarridgeiae				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Bartonella grahamii				1	2	0	15	0	0	0	15	0	3
+Environmental	Bacteria	Bartonella henselae				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Bartonella quintana				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Basfia succiniciproducens				0	1	1	11	3	0	0	15	0	1
+Environmental	Bacteria	Beggiatoa sp. PS				9	25	3	7	10	0	0	20	0	34
+Environmental	Bacteria	Beggiatoa sp. SS				0	3	0	1	0	0	0	1	0	3
+Environmental	Bacteria	Beijerinckia indica				1	9	5	22	20	0	0	47	0	10
+Environmental	Bacteria	Bermanella marisrubri				4	14	26	18	21	0	0	65	0	18
+Environmental	Bacteria	beta proteobacterium KB13				0	3	0	14	6	0	0	20	0	3
+Environmental	Bacteria	Beutenbergia cavernae				5	13	2	1	2	0	0	5	0	18
+Environmental	Bacteria	Bifidobacterium adolescentis				0	3	0	2	0	0	0	2	0	3
+Environmental	Bacteria	Bifidobacterium angulatum				1	0	0	1	1	0	0	2	0	1
+Environmental	Bacteria	Bifidobacterium animalis				0	1	1	0	0	0	0	1	0	1
+Environmental	Bacteria	Bifidobacterium gallicum				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Bifidobacterium longum				1	2	1	1	0	0	0	2	0	3
+Environmental	Bacteria	Bifidobacterium pseudocatenulatum				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Bifidobacterium sp. 12_1_47BFAA				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Bilophila wadsworthia				0	1	2	2	0	0	0	4	0	1
+Environmental	Bacteria	Blastopirellula marina				15	94	4	5	35	0	0	44	0	109
+Environmental	Bacteria	Blattabacterium sp. (Blattella germanica)				0	0	0	4	0	0	0	4	0	0
+Environmental	Bacteria	Blattabacterium sp. (Periplaneta americana)				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Blautia hydrogenotrophica				0	2	0	1	0	0	0	1	0	2
+Environmental	Bacteria	Blautia obeum				0	4	1	1	2	0	0	4	0	4
+Environmental	Bacteria	Bordetella hinzii				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Bordetella pertussis				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Borrelia afzelii				0	2	1	0	0	0	0	1	0	2
+Environmental	Bacteria	Borrelia duttonii				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Borrelia recurrentis				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Borrelia turicatae				0	0	1	4	0	0	0	5	0	0
+Environmental	Bacteria	Borreliella burgdorferi				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Borreliella garinii				1	2	0	0	2	0	0	2	0	3
+Environmental	Bacteria	Bowmanella denitrificans				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Bowmanella pacifica				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Brachybacterium faecium				5	4	0	0	0	0	0	0	0	9
+Environmental	Bacteria	Brachyspira hyodysenteriae				1	3	0	0	4	0	0	4	0	4
+Environmental	Bacteria	Brachyspira murdochii				1	8	0	2	4	0	0	6	0	9
+Environmental	Bacteria	Brachyspira pilosicoli				0	1	0	3	2	0	0	5	0	1
+Environmental	Bacteria	Bradyrhizobium japonicum				2	4	0	0	0	0	0	0	0	6
+Environmental	Bacteria	Bradyrhizobium sp. BTAi1				10	50	16	67	32	0	0	115	0	60
+Environmental	Bacteria	Bradyrhizobium sp. UPM1029				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Brevibacterium mcbrellneri				1	3	0	0	0	0	0	0	0	4
+Environmental	Bacteria	Brevundimonas sp. BAL3				1	7	1	12	11	0	0	24	0	8
+Environmental	Bacteria	Brevundimonas subvibrioides				2	1	7	12	21	0	0	40	0	3
+Environmental	Bacteria	Brucella melitensis				17	45	55	241	145	0	0	441	0	62
+Environmental	Bacteria	Brucella pinnipedialis				3	4	6	32	12	0	0	50	0	7
+Environmental	Bacteria	Brucella sp. 83/13				1	8	4	14	5	0	0	23	0	9
+Environmental	Bacteria	Brucella sp. BO1				0	1	2	12	9	0	0	23	0	1
+Environmental	Bacteria	Brucella sp. BO2				2	4	4	18	8	0	0	30	0	6
+Environmental	Bacteria	Brucella sp. F5/99				3	3	5	24	11	0	0	40	0	6
+Environmental	Bacteria	Brucella sp. NF 2653				1	6	4	15	7	0	0	26	0	7
+Environmental	Bacteria	Brucella sp. NVSL 07-0026				2	2	4	16	10	0	0	30	0	4
+Environmental	Bacteria	Buchnera aphidicola				0	0	3	6	3	0	0	12	0	0
+Environmental	Bacteria	Bulleidia extructa				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Burkholderia ambifaria				1	15	1	19	22	0	0	42	0	16
+Environmental	Bacteria	Burkholderia cenocepacia				4	12	10	10	11	0	0	31	0	16
+Environmental	Bacteria	Burkholderia dolosa				0	5	0	0	2	0	0	2	0	5
+Environmental	Bacteria	Burkholderia glumae				0	9	5	4	3	0	0	12	0	9
+Environmental	Bacteria	Burkholderia mallei				9	23	16	28	37	0	0	81	0	32
+Environmental	Bacteria	Burkholderia multivorans				6	6	3	9	15	0	0	27	0	12
+Environmental	Bacteria	Burkholderia sp. 383				4	15	16	10	9	0	0	35	0	19
+Environmental	Bacteria	Burkholderia sp. CCGE1001				0	7	1	4	4	0	0	9	0	7
+Environmental	Bacteria	Burkholderia sp. CCGE1002				2	14	3	9	10	0	0	22	0	16
+Environmental	Bacteria	Burkholderia sp. CCGE1003				4	7	5	8	5	0	0	18	0	11
+Environmental	Bacteria	Burkholderia sp. Ch1-1				3	4	1	3	4	0	0	8	0	7
+Environmental	Bacteria	Burkholderia sp. H160				1	12	2	8	6	0	0	16	0	13
+Environmental	Bacteria	Burkholderia thailandensis				3	5	0	8	3	0	0	11	0	8
+Environmental	Bacteria	Burkholderia vietnamiensis				1	9	0	15	17	0	0	32	0	10
+Environmental	Bacteria	Burkholderiales bacterium 1_1_47				0	1	0	3	3	0	0	6	0	1
+Environmental	Bacteria	Butyrivibrio crossotus				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Butyrivibrio proteoclasticus				0	9	0	0	0	0	0	0	0	9
+Environmental	Bacteria	Caldanaerobacter subterraneus				6	10	4	7	8	0	0	19	0	16
+Environmental	Bacteria	Caldicellulosiruptor bescii				1	5	0	4	2	0	0	6	0	6
+Environmental	Bacteria	Caldicellulosiruptor hydrothermalis				1	0	0	2	2	0	0	4	0	1
+Environmental	Bacteria	Caldicellulosiruptor kristjanssonii				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	Caldicellulosiruptor kronotskyensis				0	3	0	3	0	0	0	3	0	3
+Environmental	Bacteria	Caldicellulosiruptor lactoaceticus				0	1	0	1	3	0	0	4	0	1
+Environmental	Bacteria	Caldicellulosiruptor obsidiansis				0	0	0	4	3	0	0	7	0	0
+Environmental	Bacteria	Caldicellulosiruptor owensensis				0	1	0	7	0	0	0	7	0	1
+Environmental	Bacteria	Caldicellulosiruptor saccharolyticus				2	9	0	3	0	0	0	3	0	11
+Environmental	Bacteria	Calditerrivibrio nitroreducens				2	9	0	3	5	0	0	8	0	11
+Environmental	Bacteria	Caminibacter mediatlanticus				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Campylobacter coli				0	0	1	1	1	0	0	3	0	0
+Environmental	Bacteria	Campylobacter concisus				0	0	1	4	3	0	0	8	0	0
+Environmental	Bacteria	Campylobacter curvus				1	0	0	2	3	0	0	5	0	1
+Environmental	Bacteria	Campylobacter fetus				0	1	0	6	2	0	0	8	0	1
+Environmental	Bacteria	Campylobacter hominis				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Campylobacter jejuni				0	3	6	10	5	0	0	21	0	3
+Environmental	Bacteria	Campylobacter lari				0	1	4	0	0	0	0	4	0	1
+Environmental	Bacteria	Campylobacter rectus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Campylobacter showae				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Campylobacter upsaliensis				0	0	1	1	1	0	0	3	0	0
+Environmental	Bacteria	Campylobacterales bacterium GD 1				0	2	0	5	2	0	0	7	0	2
+Environmental	Bacteria	candidate division TM7 genomosp. GTL1				0	4	0	0	1	0	0	1	0	4
+Environmental	Bacteria	Candidatus Accumulibacter phosphatis				7	23	2	8	11	0	0	21	0	30
+Environmental	Bacteria	Candidatus Baumannia cicadellinicola				0	0	1	1	1	0	0	3	0	0
+Environmental	Bacteria	Candidatus Blochmannia pennsylvanicus				0	0	1	4	0	0	0	5	0	0
+Environmental	Bacteria	Candidatus Blochmannia vafer				0	0	2	0	0	0	0	2	0	0
+Environmental	Bacteria	Candidatus Chloracidobacterium thermophilum				1	1	0	1	0	0	0	1	0	2
+Environmental	Bacteria	Candidatus Desulforudis audaxviator				3	20	0	2	4	0	0	6	0	23
+Environmental	Bacteria	Candidatus Fritschea bemisiae				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Candidatus Hamiltonella defensa				1	0	2	2	0	0	0	4	0	1
+Environmental	Bacteria	Candidatus Koribacter versatilis				8	59	4	11	4	0	0	19	0	67
+Environmental	Bacteria	Candidatus Liberibacter americanus				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Candidatus Liberibacter asiaticus				1	0	0	9	2	0	0	11	0	1
+Environmental	Bacteria	Candidatus Liberibacter solanacearum				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Candidatus Nitrospira defluvii				2	0	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Candidatus Pelagibacter sp. HTCC7211				3	3	173	672	353	0	0	1198	0	6
+Environmental	Bacteria	Candidatus Pelagibacter ubique				1	5	212	1299	571	0	0	2082	0	6
+Environmental	Bacteria	Candidatus Poribacteria sp. WGA-A3				57	232	1	5	3	0	0	9	0	289
+Environmental	Bacteria	Candidatus Puniceispirillum marinum				4	17	34	134	53	0	0	221	0	21
+Environmental	Bacteria	Candidatus Regiella insecticola				0	0	2	0	0	0	0	2	0	0
+Environmental	Bacteria	Candidatus Solibacter usitatus				28	127	2	12	19	0	0	33	0	155
+Environmental	Bacteria	Candidatus Thiobios zoothamnicoli				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Capnocytophaga gingivalis				2	3	1	4	13	0	0	18	0	5
+Environmental	Bacteria	Capnocytophaga ochracea				3	11	6	16	12	0	0	34	0	14
+Environmental	Bacteria	Capnocytophaga sputigena				2	1	0	5	6	0	0	11	0	3
+Environmental	Bacteria	Carboxydothermus hydrogenoformans				2	13	0	4	8	0	0	12	0	15
+Environmental	Bacteria	Cardiobacterium hominis				0	5	0	4	6	0	0	10	0	5
+Environmental	Bacteria	Carnobacterium sp. AT7				0	0	5	1	1	0	0	7	0	0
+Environmental	Bacteria	Catenibacterium mitsuokai				1	0	0	1	1	0	0	2	0	1
+Environmental	Bacteria	Catenulispora acidiphila				6	30	2	5	7	0	0	14	0	36
+Environmental	Bacteria	Catonella morbi				0	1	0	2	1	0	0	3	0	1
+Environmental	Bacteria	Caulobacter segnis				0	14	5	14	24	0	0	43	0	14
+Environmental	Bacteria	Caulobacter sp. K31				3	18	8	26	35	0	0	69	0	21
+Environmental	Bacteria	Caulobacter vibrioides				5	20	10	32	38	0	0	80	0	25
+Environmental	Bacteria	Cellulomonas flavigena				0	11	1	0	2	0	0	3	0	11
+Environmental	Bacteria	Cellulophaga algicola				0	18	0	16	41	0	0	57	0	18
+Environmental	Bacteria	Cellulosilyticum lentocellum				0	2	0	3	1	0	0	4	0	2
+Environmental	Bacteria	Cellvibrio japonicus				2	11	22	29	35	0	0	86	0	13
+Environmental	Bacteria	Chelativorans sp. BNC1				8	23	12	38	39	0	0	89	0	31
+Environmental	Bacteria	Chinaberry witches'-broom phytoplasma				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Chitinophaga pinensis				16	28	8	7	57	0	0	72	0	44
+Environmental	Bacteria	Chlamydia muridarum				0	0	1	1	2	0	0	4	0	0
+Environmental	Bacteria	Chlamydia suis				0	0	2	3	0	0	0	5	0	0
+Environmental	Bacteria	Chlamydia trachomatis				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Chlamydophila caviae				0	1	0	0	2	0	0	2	0	1
+Environmental	Bacteria	Chlamydophila pneumoniae				0	1	0	1	0	0	0	1	0	1
+Environmental	Bacteria	Chlorobaculum parvum				3	2	1	4	0	0	0	5	0	5
+Environmental	Bacteria	Chlorobaculum tepidum				1	8	3	4	2	0	0	9	0	9
+Environmental	Bacteria	Chlorobium chlorochromatii				3	11	1	2	1	0	0	4	0	14
+Environmental	Bacteria	Chlorobium clathratiforme				1	14	1	7	3	0	0	11	0	15
+Environmental	Bacteria	Chlorobium ferrooxidans				1	5	1	1	4	0	0	6	0	6
+Environmental	Bacteria	Chlorobium limicola				0	10	1	4	4	0	0	9	0	10
+Environmental	Bacteria	Chlorobium luteolum				3	9	0	2	8	0	0	10	0	12
+Environmental	Bacteria	Chlorobium phaeobacteroides				3	23	1	8	13	0	0	22	0	26
+Environmental	Bacteria	Chlorobium phaeovibrioides				2	7	2	6	7	0	0	15	0	9
+Environmental	Bacteria	Chloroflexus aggregans				14	35	1	13	4	0	0	18	0	49
+Environmental	Bacteria	Chloroflexus aurantiacus				4	41	0	7	10	0	0	17	0	45
+Environmental	Bacteria	Chloroflexus sp. Y-400-fl				3	38	0	7	11	0	0	18	0	41
+Environmental	Bacteria	Chloroherpeton thalassium				7	20	1	7	10	0	0	18	0	27
+Environmental	Bacteria	Chromatium okenii				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Chromobacterium violaceum				4	9	4	9	10	0	0	23	0	13
+Environmental	Bacteria	Chromohalobacter salexigens				5	17	29	51	30	0	0	110	0	22
+Environmental	Bacteria	Chryseobacterium gleum				0	12	5	10	15	0	0	30	0	12
+Environmental	Bacteria	Chthoniobacter flavus				13	50	4	6	27	0	0	37	0	63
+Environmental	Bacteria	Citreicella sp. SE45				5	18	3	18	48	0	0	69	0	23
+Environmental	Bacteria	Citrobacter freundii				0	0	2	0	1	0	0	3	0	0
+Environmental	Bacteria	Citrobacter koseri				3	3	25	4	9	0	0	38	0	6
+Environmental	Bacteria	Citrobacter sp. 30_2				0	4	17	5	9	0	0	31	0	4
+Environmental	Bacteria	Citrobacter youngae				0	0	11	4	2	0	0	17	0	0
+Environmental	Bacteria	Clostridiales bacterium 1_7_47FAA				4	5	1	0	3	0	0	4	0	9
+Environmental	Bacteria	Clostridiales genomosp. BVAB3				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Clostridioides difficile				2	6	0	2	2	0	0	4	0	8
+Environmental	Bacteria	Clostridium acetobutylicum				1	3	1	0	1	0	0	2	0	4
+Environmental	Bacteria	Clostridium asparagiforme				0	7	0	0	2	0	0	2	0	7
+Environmental	Bacteria	Clostridium beijerinckii				5	10	0	5	4	0	0	9	0	15
+Environmental	Bacteria	Clostridium bolteae				1	6	0	1	0	0	0	1	0	7
+Environmental	Bacteria	Clostridium botulinum				2	11	0	11	4	0	0	15	0	13
+Environmental	Bacteria	Clostridium butyricum				3	3	0	2	2	0	0	4	0	6
+Environmental	Bacteria	Clostridium carboxidivorans				0	3	0	0	0	0	0	0	0	3
+Environmental	Bacteria	Clostridium cellulolyticum				0	6	1	4	6	0	0	11	0	6
+Environmental	Bacteria	Clostridium cellulovorans				2	0	0	0	4	0	0	4	0	2
+Environmental	Bacteria	Clostridium hiranonis				0	2	0	3	5	0	0	8	0	2
+Environmental	Bacteria	Clostridium hylemonae				1	0	0	1	0	0	0	1	0	1
+Environmental	Bacteria	Clostridium kluyveri				0	3	1	3	0	0	0	4	0	3
+Environmental	Bacteria	Clostridium leptum				0	3	0	4	0	0	0	4	0	3
+Environmental	Bacteria	Clostridium ljungdahlii				2	5	0	2	1	0	0	3	0	7
+Environmental	Bacteria	Clostridium methylpentosum				1	3	0	1	0	0	0	1	0	4
+Environmental	Bacteria	Clostridium nexile				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Clostridium novyi				2	3	1	2	0	0	0	3	0	5
+Environmental	Bacteria	Clostridium papyrosolvens				0	2	0	2	2	0	0	4	0	2
+Environmental	Bacteria	Clostridium perfringens				0	4	2	12	5	0	0	19	0	4
+Environmental	Bacteria	Clostridium phytofermentans				4	8	1	3	3	0	0	7	0	12
+Environmental	Bacteria	Clostridium ramosum				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	Clostridium saccharolyticum				0	0	0	0	4	0	0	4	0	0
+Environmental	Bacteria	Clostridium scindens				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Clostridium sp. 7_2_43FAA				2	0	2	2	0	0	0	4	0	2
+Environmental	Bacteria	Clostridium sp. L2-50				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Clostridium sp. M62/1				3	0	0	1	0	0	0	1	0	3
+Environmental	Bacteria	Clostridium sp. SS2/1				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Clostridium spiroforme				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Clostridium sporogenes				1	0	0	0	3	0	0	3	0	1
+Environmental	Bacteria	Clostridium symbiosum				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Clostridium tetani				0	2	0	6	1	0	0	7	0	2
+Environmental	Bacteria	Clostridium thermocellum				1	14	1	1	1	0	0	3	0	15
+Environmental	Bacteria	Coenonia anatina				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Collinsella aerofaciens				0	3	1	0	0	0	0	1	0	3
+Environmental	Bacteria	Colwellia psychrerythraea				4	16	107	76	47	0	0	230	0	20
+Environmental	Bacteria	Comamonas testosteroni				1	10	13	20	11	0	0	44	0	11
+Environmental	Bacteria	Conexibacter woesei				4	24	1	2	5	0	0	8	0	28
+Environmental	Bacteria	Congregibacter litoralis				7	36	22	50	40	0	0	112	0	43
+Environmental	Bacteria	Coprobacillus sp. 29_1				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Coprobacillus sp. D7				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	Coprococcus comes				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Coprococcus eutactus				0	2	0	1	0	0	0	1	0	2
+Environmental	Bacteria	Coprothermobacter proteolyticus				0	6	0	0	1	0	0	1	0	6
+Environmental	Bacteria	Coraliomargarita akajimensis				0	16	1	18	37	0	0	56	0	16
+Environmental	Bacteria	Corynebacterium accolens				0	1	1	0	3	0	0	4	0	1
+Environmental	Bacteria	Corynebacterium ammoniagenes				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Corynebacterium amycolatum				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Corynebacterium aurimucosum				0	0	2	0	0	0	0	2	0	0
+Environmental	Bacteria	Corynebacterium efficiens				0	6	0	2	1	0	0	3	0	6
+Environmental	Bacteria	Corynebacterium genitalium				1	1	2	0	0	0	0	2	0	2
+Environmental	Bacteria	Corynebacterium glucuronolyticum				0	3	1	3	3	0	0	7	0	3
+Environmental	Bacteria	Corynebacterium glutamicum				0	0	1	2	2	0	0	5	0	0
+Environmental	Bacteria	Corynebacterium jeikeium				2	0	0	2	0	0	0	2	0	2
+Environmental	Bacteria	Corynebacterium kroppenstedtii				0	0	0	0	4	0	0	4	0	0
+Environmental	Bacteria	Corynebacterium kutscheri				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Corynebacterium matruchotii				0	2	0	0	1	0	0	1	0	2
+Environmental	Bacteria	Corynebacterium pseudogenitalium				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Corynebacterium pseudotuberculosis				0	0	0	3	0	0	0	3	0	0
+Environmental	Bacteria	Corynebacterium sp. L2-79-05				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Corynebacterium striatum				0	2	0	2	0	0	0	2	0	2
+Environmental	Bacteria	Corynebacterium tuberculostearicum				0	0	1	0	1	0	0	2	0	0
+Environmental	Bacteria	Coxiella burnetii				2	4	3	16	17	0	0	36	0	6
+Environmental	Bacteria	Croceibacter atlanticus				4	12	14	26	37	0	0	77	0	16
+Environmental	Bacteria	Crocosphaera watsonii				13	18	8	13	15	0	0	36	0	31
+Environmental	Bacteria	Cronobacter sakazakii				0	3	28	3	5	0	0	36	0	3
+Environmental	Bacteria	Cryptobacterium curtum				0	1	0	0	2	0	0	2	0	1
+Environmental	Bacteria	Cupriavidus basilensis				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Cupriavidus metallidurans				11	14	11	18	17	0	0	46	0	25
+Environmental	Bacteria	Cupriavidus pinatubonensis				6	21	0	11	21	0	0	32	0	27
+Environmental	Bacteria	cyanobacterium UCYN-A				0	1	2	7	6	0	0	15	0	1
+Environmental	Bacteria	Cyanobium sp. PCC 7001				3	2	10	50	24	0	0	84	0	5
+Environmental	Bacteria	Cyanothece sp. ATCC 51142				3	27	11	20	15	0	0	46	0	30
+Environmental	Bacteria	Cyanothece sp. CCY0110				9	15	1	13	16	0	0	30	0	24
+Environmental	Bacteria	Cyanothece sp. PCC 7424				14	16	4	16	11	0	0	31	0	30
+Environmental	Bacteria	Cyanothece sp. PCC 7425				13	24	1	11	16	0	0	28	0	37
+Environmental	Bacteria	Cyanothece sp. PCC 7822				16	28	0	14	13	0	0	27	0	44
+Environmental	Bacteria	Cyanothece sp. PCC 8801				7	14	4	19	14	0	0	37	0	21
+Environmental	Bacteria	Cyanothece sp. PCC 8802				6	12	5	9	7	0	0	21	0	18
+Environmental	Bacteria	Cylindrospermopsis raciborskii				3	13	0	7	4	0	0	11	0	16
+Environmental	Bacteria	Cytophaga hutchinsonii				0	9	3	11	23	0	0	37	0	9
+Environmental	Bacteria	Dechloromonas aromatica				4	11	6	13	11	0	0	30	0	15
+Environmental	Bacteria	Dehalococcoides ethenogenes				4	7	0	0	0	0	0	0	0	11
+Environmental	Bacteria	Dehalococcoides sp. BAV1				2	6	1	2	0	0	0	3	0	8
+Environmental	Bacteria	Dehalococcoides sp. GT				0	4	2	2	0	0	0	4	0	4
+Environmental	Bacteria	Dehalococcoides sp. VS				1	5	0	0	1	0	0	1	0	6
+Environmental	Bacteria	Dehalogenimonas lykanthroporepellens				4	11	1	0	4	0	0	5	0	15
+Environmental	Bacteria	Deinococcus deserti				4	13	0	5	3	0	0	8	0	17
+Environmental	Bacteria	Deinococcus geothermalis				1	14	0	5	6	0	0	11	0	15
+Environmental	Bacteria	Deinococcus maricopensis				1	6	0	4	2	0	0	6	0	7
+Environmental	Bacteria	Deinococcus radiodurans				4	5	0	5	0	0	0	5	0	9
+Environmental	Bacteria	Delftia acidovorans				3	10	8	9	5	0	0	22	0	13
+Environmental	Bacteria	delta proteobacterium MLMS-1				2	19	3	3	10	0	0	16	0	21
+Environmental	Bacteria	delta proteobacterium NaphS2				10	27	2	6	8	0	0	16	0	37
+Environmental	Bacteria	Denitrovibrio acetiphilus				2	5	6	5	2	0	0	13	0	7
+Environmental	Bacteria	Dermacoccus sp. Ellin185				0	2	0	2	2	0	0	4	0	2
+Environmental	Bacteria	Desulfarculus baarsii				7	14	0	3	4	0	0	7	0	21
+Environmental	Bacteria	Desulfatibacillum alkenivorans				5	16	2	11	12	0	0	25	0	21
+Environmental	Bacteria	Desulfitobacterium hafniense				0	17	2	9	2	0	0	13	0	17
+Environmental	Bacteria	Desulfobacterium autotrophicum				6	14	0	4	10	0	0	14	0	20
+Environmental	Bacteria	Desulfobulbus propionicus				2	10	0	0	5	0	0	5	0	12
+Environmental	Bacteria	Desulfococcus oleovorans				3	12	0	8	10	0	0	18	0	15
+Environmental	Bacteria	Desulfohalobium retbaense				0	7	1	8	5	0	0	14	0	7
+Environmental	Bacteria	Desulfomicrobium baculatum				2	12	4	8	5	0	0	17	0	14
+Environmental	Bacteria	Desulfonatronospira thiodismutans				0	15	2	0	5	0	0	7	0	15
+Environmental	Bacteria	Desulfotomaculum acetoxidans				2	14	1	4	6	0	0	11	0	16
+Environmental	Bacteria	Desulfotomaculum nigrificans				0	9	0	2	1	0	0	3	0	9
+Environmental	Bacteria	Desulfotomaculum reducens				6	6	0	4	4	0	0	8	0	12
+Environmental	Bacteria	Desulfovibrio alaskensis				3	15	1	10	9	0	0	20	0	18
+Environmental	Bacteria	Desulfovibrio desulfuricans				0	7	3	7	6	0	0	16	0	7
+Environmental	Bacteria	Desulfovibrio fructosivorans				2	5	2	0	0	0	0	2	0	7
+Environmental	Bacteria	Desulfovibrio piger				3	0	1	0	0	0	0	1	0	3
+Environmental	Bacteria	Desulfovibrio salexigens				2	5	4	8	6	0	0	18	0	7
+Environmental	Bacteria	Desulfovibrio sp. 3_1_syn3				0	3	0	2	0	0	0	2	0	3
+Environmental	Bacteria	Desulfovibrio sp. FW1012B				4	8	0	0	2	0	0	2	0	12
+Environmental	Bacteria	Desulfovibrio vulgaris				6	16	2	3	12	0	0	17	0	22
+Environmental	Bacteria	Desulfurispirillum indicum				2	7	1	4	6	0	0	11	0	9
+Environmental	Bacteria	Desulfurivibrio alkaliphilus				0	16	4	6	9	0	0	19	0	16
+Environmental	Bacteria	Desulfuromonas acetoxidans				0	15	8	4	7	0	0	19	0	15
+Environmental	Bacteria	Dethiobacter alkaliphilus				1	11	2	0	1	0	0	3	0	12
+Environmental	Bacteria	Dethiosulfovibrio peptidovorans				0	4	0	1	1	0	0	2	0	4
+Environmental	Bacteria	Dialister invisus				2	0	0	1	0	0	0	1	0	2
+Environmental	Bacteria	Diaphorobacter nitroreducens				0	0	0	1	5	0	0	6	0	0
+Environmental	Bacteria	Dichelobacter nodosus				0	1	1	6	4	0	0	11	0	1
+Environmental	Bacteria	Dickeya dadantii				1	10	25	6	17	0	0	48	0	11
+Environmental	Bacteria	Dickeya zeae				2	2	6	6	7	0	0	19	0	4
+Environmental	Bacteria	Dictyoglomus thermophilum				1	3	0	3	1	0	0	4	0	4
+Environmental	Bacteria	Dictyoglomus turgidum				2	3	0	3	0	0	0	3	0	5
+Environmental	Bacteria	Dietzia cinnamea				0	7	0	1	2	0	0	3	0	7
+Environmental	Bacteria	Dinghuibacter silviterrae	0	0	243						243	0	0	0	0
+Environmental	Bacteria	Dinoroseobacter shibae				3	21	17	46	44	0	0	107	0	24
+Environmental	Bacteria	Dokdonia donghaensis				3	7	10	22	37	0	0	69	0	10
+Environmental	Bacteria	Dorea formicigenerans				3	2	0	2	0	0	0	2	0	5
+Environmental	Bacteria	Dorea longicatena				0	0	1	0	2	0	0	3	0	0
+Environmental	Bacteria	Dyadobacter fermentans				9	40	9	10	23	0	0	42	0	49
+Environmental	Bacteria	Edwardsiella ictaluri				0	0	7	8	8	0	0	23	0	0
+Environmental	Bacteria	Edwardsiella tarda				0	5	14	15	7	0	0	36	0	5
+Environmental	Bacteria	Eggerthella lenta				0	5	0	1	3	0	0	4	0	5
+Environmental	Bacteria	Eggerthella sp. 1_3_56FAA				0	3	0	1	1	0	0	2	0	3
+Environmental	Bacteria	Ehrlichia canis				0	0	2	6	7	0	0	15	0	0
+Environmental	Bacteria	Ehrlichia chaffeensis				1	0	1	10	4	0	0	15	0	1
+Environmental	Bacteria	Ehrlichia ruminantium				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Eikenella corrodens				0	2	1	2	3	0	0	6	0	2
+Environmental	Bacteria	Elusimicrobium minutum				0	3	0	1	3	0	0	4	0	3
+Environmental	Bacteria	endophytic bacterium LOB-07				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	endosymbiont of Oligobrachia haakonmosbiensis				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	endosymbiont of Ridgeia piscesae				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Enhydrobacter aerosaccus				3	2	14	1	5	0	0	20	0	5
+Environmental	Bacteria	Enterobacter cancerogenus				0	0	41	4	3	0	0	48	0	0
+Environmental	Bacteria	Enterobacter cloacae				1	3	72	4	10	0	0	86	0	4
+Environmental	Bacteria	Enterobacter sp. 638				2	3	42	8	8	0	0	58	0	5
+Environmental	Bacteria	Enterobacteriaceae bacterium 521				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Enterobacteriaceae bacterium 9_2_54FAA				0	1	11	9	3	0	0	23	0	1
+Environmental	Bacteria	Enterobacteriaceae bacterium Am-4				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Enterococcus casseliflavus				0	0	2	1	2	0	0	5	0	0
+Environmental	Bacteria	Enterococcus durans				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Enterococcus faecalis				1	2	5	0	0	0	0	5	0	3
+Environmental	Bacteria	Enterococcus faecium				0	4	6	4	0	0	0	10	0	4
+Environmental	Bacteria	Enterococcus gallinarum				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Enterococcus italicus				0	2	1	0	0	0	0	1	0	2
+Environmental	Bacteria	Eremococcus coleocola				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Erwinia psidii				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Erwinia sp. Ejp617				0	2	5	2	3	0	0	10	0	2
+Environmental	Bacteria	Erysipelothrix rhusiopathiae				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Erysipelotrichaceae bacterium 3_1_53				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Erysipelotrichaceae bacterium 5_2_54FAA				0	2	0	1	0	0	0	1	0	2
+Environmental	Bacteria	Erythrobacter citreus				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Erythrobacter litoralis				1	18	8	34	35	0	0	77	0	19
+Environmental	Bacteria	Erythrobacter sp. NAP1				2	7	8	20	26	0	0	54	0	9
+Environmental	Bacteria	Erythrobacter sp. SD-21				2	12	3	14	39	0	0	56	0	14
+Environmental	Bacteria	Escherichia albertii				1	0	10	2	2	0	0	14	0	1
+Environmental	Bacteria	Escherichia coli				4	20	121	42	37	0	0	200	0	24
+Environmental	Bacteria	Escherichia sp. 1_1_43				0	0	10	3	2	0	0	15	0	0
+Environmental	Bacteria	Escherichia sp. 3_2_53FAA				0	1	16	10	7	0	0	33	0	1
+Environmental	Bacteria	Ethanoligenens harbinense				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Eubacterium cellulosolvens				0	0	0	3	0	0	0	3	0	0
+Environmental	Bacteria	Eubacterium eligens				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Eubacterium limosum				3	4	2	2	0	0	0	4	0	7
+Environmental	Bacteria	Eubacterium saphenum				0	0	0	2	1	0	0	3	0	0
+Environmental	Bacteria	Eubacterium siraeum				0	0	2	0	2	0	0	4	0	0
+Environmental	Bacteria	Eubacterium ventriosum				2	0	0	0	6	0	0	6	0	2
+Environmental	Bacteria	Eubacterium yurii				1	0	2	0	0	0	0	2	0	1
+Environmental	Bacteria	Exiguobacterium sibiricum				0	3	1	1	4	0	0	6	0	3
+Environmental	Bacteria	Exiguobacterium sp. AT1b				0	1	1	1	3	0	0	5	0	1
+Environmental	Bacteria	Faecalibacterium prausnitzii				0	3	0	1	2	0	0	3	0	3
+Environmental	Bacteria	Ferrimonas balearica				0	14	44	31	21	0	0	96	0	14
+Environmental	Bacteria	Fervidobacterium nodosum				1	2	0	1	0	0	0	1	0	3
+Environmental	Bacteria	Fibrobacter succinogenes				0	2	0	1	4	0	0	5	0	2
+Environmental	Bacteria	Filifactor alocis				0	0	0	4	1	0	0	5	0	0
+Environmental	Bacteria	Finegoldia magna				0	1	1	2	2	0	0	5	0	1
+Environmental	Bacteria	Flammeovirga yaeyamensis				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Flavobacteria bacterium BAL38				2	6	6	17	24	0	0	47	0	8
+Environmental	Bacteria	Flavobacteria bacterium BBFL7				1	12	9	11	45	0	0	65	0	13
+Environmental	Bacteria	Flavobacteria bacterium MS024-2A				2	13	14	42	29	0	0	85	0	15
+Environmental	Bacteria	Flavobacteria bacterium MS024-3C				6	9	3	12	19	0	0	34	0	15
+Environmental	Bacteria	Flavobacteriaceae bacterium 3519-10				2	4	8	8	17	0	0	33	0	6
+Environmental	Bacteria	Flavobacteriales bacterium ALC-1				5	20	10	19	40	0	0	69	0	25
+Environmental	Bacteria	Flavobacterium columnare				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Flavobacterium johnsoniae				4	18	19	24	46	0	0	89	0	22
+Environmental	Bacteria	Francisella cantonensis				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Francisella philomiragia				0	1	2	8	10	0	0	20	0	1
+Environmental	Bacteria	Francisella tularensis				1	8	6	27	17	0	0	50	0	9
+Environmental	Bacteria	Frankia sp. CcI3				2	7	0	6	3	0	0	9	0	9
+Environmental	Bacteria	Frankia sp. EAN1pec				9	27	1	7	8	0	0	16	0	36
+Environmental	Bacteria	Frankia sp. EuI1c				3	41	0	5	9	0	0	14	0	44
+Environmental	Bacteria	Frankia sp. EUN1f				7	23	2	2	3	0	0	7	0	30
+Environmental	Bacteria	Frankia symbiont of Datisca glomerata				4	15	0	3	2	0	0	5	0	19
+Environmental	Bacteria	Fulvimarina pelagi				3	8	8	24	14	0	0	46	0	11
+Environmental	Bacteria	Fusobacterium mortiferum				0	0	3	4	3	0	0	10	0	0
+Environmental	Bacteria	Fusobacterium nucleatum				1	9	3	4	3	0	0	10	0	10
+Environmental	Bacteria	Fusobacterium sp. 1_1_41FAA				0	0	1	4	0	0	0	5	0	0
+Environmental	Bacteria	Fusobacterium sp. 2_1_31				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Fusobacterium sp. 3_1_36A2				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Fusobacterium sp. 4_1_13				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Fusobacterium sp. 7_1				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Fusobacterium sp. D11				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Fusobacterium sp. D12				0	2	0	0	2	0	0	2	0	2
+Environmental	Bacteria	Fusobacterium ulcerans				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Fusobacterium varium				1	2	2	2	2	0	0	6	0	3
+Environmental	Bacteria	Gallibacterium anatis				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Gallionella capsiferriformans				3	2	0	9	6	0	0	15	0	5
+Environmental	Bacteria	gamma proteobacterium HTCC2207				0	14	12	41	23	0	0	76	0	14
+Environmental	Bacteria	gamma proteobacterium HTCC5015				1	8	11	19	16	0	0	46	0	9
+Environmental	Bacteria	gamma proteobacterium NOR51-B				5	17	8	32	25	0	0	65	0	22
+Environmental	Bacteria	gamma proteobacterium NOR5-3				4	21	12	23	27	0	0	62	0	25
+Environmental	Bacteria	Gardnerella vaginalis				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Gemella haemolysans				1	1	2	0	0	0	0	2	0	2
+Environmental	Bacteria	Gemella morbillorum				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Gemmata sp. Wa1-1				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Geobacillus sp. C56-T3				4	11	1	1	2	0	0	4	0	15
+Environmental	Bacteria	Geobacillus sp. G11MC16				0	6	1	2	7	0	0	10	0	6
+Environmental	Bacteria	Geobacillus sp. POT5				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Geobacillus sp. WCH70				2	8	1	2	2	0	0	5	0	10
+Environmental	Bacteria	Geobacillus sp. Y4.1MC1				2	5	2	7	3	0	0	12	0	7
+Environmental	Bacteria	Geobacillus sp. Y412MC52				3	7	3	4	3	0	0	10	0	10
+Environmental	Bacteria	Geobacillus sp. Y412MC61				3	7	3	4	3	0	0	10	0	10
+Environmental	Bacteria	Geobacillus stearothermophilus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Geobacillus thermodenitrificans				2	10	0	4	11	0	0	15	0	12
+Environmental	Bacteria	Geobacillus thermoglucosidasius				2	5	1	5	1	0	0	7	0	7
+Environmental	Bacteria	Geobacillus thermoleovorans				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Geobacter bemidjiensis				5	12	2	6	5	0	0	13	0	17
+Environmental	Bacteria	Geobacter lovleyi				6	8	6	1	2	0	0	9	0	14
+Environmental	Bacteria	Geobacter metallireducens				2	23	2	6	6	0	0	14	0	25
+Environmental	Bacteria	Geobacter sp. FRC-32				0	12	3	7	7	0	0	17	0	12
+Environmental	Bacteria	Geobacter sp. M18				7	8	3	4	8	0	0	15	0	15
+Environmental	Bacteria	Geobacter sp. M21				4	6	1	1	6	0	0	8	0	10
+Environmental	Bacteria	Geobacter sulfurreducens				12	20	3	10	15	0	0	28	0	32
+Environmental	Bacteria	Geobacter uraniireducens				8	27	6	9	10	0	0	25	0	35
+Environmental	Bacteria	Geodermatophilus obscurus				2	22	1	6	9	0	0	16	0	24
+Environmental	Bacteria	Gimesia maris				17	98	4	14	38	0	0	56	0	115
+Environmental	Bacteria	Gloeobacter violaceus				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Gluconacetobacter diazotrophicus				3	10	5	16	8	0	0	29	0	13
+Environmental	Bacteria	Gluconobacter oxydans				2	7	1	17	14	0	0	32	0	9
+Environmental	Bacteria	Goldenrain phytoplasma				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Gordonia bronchialis				2	2	0	2	3	0	0	5	0	4
+Environmental	Bacteria	Gordonia rubripertincta				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Granulibacter bethesdensis				3	16	0	22	19	0	0	41	0	19
+Environmental	Bacteria	Granulicatella adiacens				1	0	2	0	0	0	0	2	0	1
+Environmental	Bacteria	Granulicatella elegans				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Granulicella mallensis				3	23	1	7	4	0	0	12	0	26
+Environmental	Bacteria	Grimontia hollisae				0	6	42	32	10	0	0	84	0	6
+Environmental	Bacteria	Haemophilus ducreyi				0	1	4	6	2	0	0	12	0	1
+Environmental	Bacteria	Haemophilus haemolyticus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Haemophilus influenzae				8	10	16	15	28	0	0	59	0	18
+Environmental	Bacteria	Haemophilus parasuis				0	4	8	9	4	0	0	21	0	4
+Environmental	Bacteria	Hahella chejuensis				10	26	34	41	56	0	0	131	0	36
+Environmental	Bacteria	Halanaerobium hydrogeniformans				0	5	0	0	4	0	0	4	0	5
+Environmental	Bacteria	Halanaerobium praevalens				0	3	0	0	0	0	0	0	0	3
+Environmental	Bacteria	Haliangium ochraceum				13	62	6	8	28	0	0	42	0	75
+Environmental	Bacteria	Halobacillus halophilus				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Halomonas sp. HAL1				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Halorhodospira halophila				9	20	4	9	15	0	0	28	0	29
+Environmental	Bacteria	Halothermothrix orenii				5	20	3	3	3	0	0	9	0	25
+Environmental	Bacteria	Halothiobacillus neapolitanus				3	9	3	9	7	0	0	19	0	12
+Environmental	Bacteria	Helicobacter bilis				0	2	0	0	1	0	0	1	0	2
+Environmental	Bacteria	Helicobacter canadensis				0	0	2	0	1	0	0	3	0	0
+Environmental	Bacteria	Helicobacter cinaedi				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Helicobacter hepaticus				0	0	2	0	0	0	0	2	0	0
+Environmental	Bacteria	Helicobacter pullorum				0	0	0	3	0	0	0	3	0	0
+Environmental	Bacteria	Helicobacter pylori				2	3	1	6	2	0	0	9	0	5
+Environmental	Bacteria	Helicobacter winghamensis				0	0	0	2	1	0	0	3	0	0
+Environmental	Bacteria	Heliobacterium modesticaldum				0	14	1	3	5	0	0	9	0	14
+Environmental	Bacteria	Herbaspirillum seropedicae				1	2	5	7	9	0	0	21	0	3
+Environmental	Bacteria	Herpetosiphon aurantiacus				12	35	2	6	15	0	0	23	0	47
+Environmental	Bacteria	Hirschia baltica				3	10	5	23	55	0	0	83	0	13
+Environmental	Bacteria	Histophilus somni				7	7	6	8	5	0	0	19	0	14
+Environmental	Bacteria	Hoeflea phototrophica				8	24	5	30	35	0	0	70	0	32
+Environmental	Bacteria	Holdemanella biformis				0	0	1	0	1	0	0	2	0	0
+Environmental	Bacteria	Holdemania filiformis				0	2	0	1	1	0	0	2	0	2
+Environmental	Bacteria	Hungatella hathewayi				0	6	0	0	0	0	0	0	0	6
+Environmental	Bacteria	Hydrogenivirga sp. 128-5-R1-1				0	7	0	3	3	0	0	6	0	7
+Environmental	Bacteria	Hydrogenobacter thermophilus				1	4	0	3	3	0	0	6	0	5
+Environmental	Bacteria	Hydrogenobaculum sp. Y04AAS1				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Hydrogenovibrio crunogenus				2	6	12	13	16	0	0	41	0	8
+Environmental	Bacteria	Hyphomicrobium denitrificans				2	16	7	18	28	0	0	53	0	18
+Environmental	Bacteria	Hyphomonas neptunium				0	16	14	30	88	0	0	132	0	16
+Environmental	Bacteria	Idiomarina baltica				2	5	91	45	52	0	0	188	0	7
+Environmental	Bacteria	Idiomarina loihiensis				1	11	71	67	56	0	0	194	0	12
+Environmental	Bacteria	Ilyobacter polytropus				1	9	3	2	0	0	0	5	0	10
+Environmental	Bacteria	Intestinibacter bartlettii				0	0	0	1	4	0	0	5	0	0
+Environmental	Bacteria	Intrasporangium calvum				2	3	2	4	0	0	0	6	0	5
+Environmental	Bacteria	Isosphaera pallida				11	45	3	3	13	0	0	19	0	56
+Environmental	Bacteria	Janibacter sp. HTCC2649				0	8	0	0	7	0	0	7	0	8
+Environmental	Bacteria	Jannaschia sp. CCS1				4	26	14	33	39	0	0	86	0	30
+Environmental	Bacteria	Janthinobacterium sp. Marseille				4	6	4	12	14	0	0	30	0	10
+Environmental	Bacteria	Jonesia denitrificans				0	2	0	2	1	0	0	3	0	2
+Environmental	Bacteria	Jonquetella anthropi				1	0	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Kangiella koreensis				8	9	19	25	20	0	0	64	0	17
+Environmental	Bacteria	Ketogulonicigenium vulgare				5	10	5	17	11	0	0	33	0	15
+Environmental	Bacteria	Kineococcus radiotolerans				4	14	2	4	6	0	0	12	0	18
+Environmental	Bacteria	Kingella oralis				1	1	1	5	1	0	0	7	0	2
+Environmental	Bacteria	Klebsiella pneumoniae				2	5	47	16	16	0	0	79	0	7
+Environmental	Bacteria	Klebsiella sp. 1_1_55				0	1	9	8	5	0	0	22	0	1
+Environmental	Bacteria	Klebsiella sp. KCL-2				0	0	3	0	0	0	0	3	0	0
+Environmental	Bacteria	Klebsiella variicola				1	0	11	7	3	0	0	21	0	1
+Environmental	Bacteria	Kluyvera ascorbata				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Komagataeibacter hansenii				0	13	2	10	3	0	0	15	0	13
+Environmental	Bacteria	Kordia algicida				2	12	6	18	45	0	0	69	0	14
+Environmental	Bacteria	Kosmotoga olearia				1	2	0	3	1	0	0	4	0	3
+Environmental	Bacteria	Kribbella flavida				2	20	0	6	6	0	0	12	0	22
+Environmental	Bacteria	Ktedonobacter racemifer				14	52	0	5	13	0	0	18	0	66
+Environmental	Bacteria	Kyrpidia tusciae				6	16	1	6	7	0	0	14	0	22
+Environmental	Bacteria	Kytococcus sedentarius				0	7	1	4	2	0	0	7	0	7
+Environmental	Bacteria	Labrenzia aggregata				0	25	6	34	25	0	0	65	0	25
+Environmental	Bacteria	Labrenzia alexandrii				8	17	4	31	43	0	0	78	0	25
+Environmental	Bacteria	Lachnospiraceae bacterium 5_1_63FAA				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Lachnospiraceae bacterium 8_1_57FAA				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Lactobacillus acidophilus				0	2	0	1	0	0	0	1	0	2
+Environmental	Bacteria	Lactobacillus antri				0	2	2	1	0	0	0	3	0	2
+Environmental	Bacteria	Lactobacillus brevis				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Lactobacillus buchneri				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Lactobacillus casei				0	2	1	4	0	0	0	5	0	2
+Environmental	Bacteria	Lactobacillus delbrueckii				1	2	0	2	0	0	0	2	0	3
+Environmental	Bacteria	Lactobacillus fermentum				1	2	0	0	0	0	0	0	0	3
+Environmental	Bacteria	Lactobacillus gasseri				0	1	0	1	0	0	0	1	0	1
+Environmental	Bacteria	Lactobacillus helveticus				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Lactobacillus hilgardii				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Lactobacillus iners				0	0	1	0	1	0	0	2	0	0
+Environmental	Bacteria	Lactobacillus jensenii				0	3	1	0	0	0	0	1	0	3
+Environmental	Bacteria	Lactobacillus johnsonii				0	2	0	0	2	0	0	2	0	2
+Environmental	Bacteria	Lactobacillus paracasei				0	0	1	2	0	0	0	3	0	0
+Environmental	Bacteria	Lactobacillus plantarum				2	0	4	3	3	0	0	10	0	2
+Environmental	Bacteria	Lactobacillus reuteri				1	1	2	0	0	0	0	2	0	2
+Environmental	Bacteria	Lactobacillus rhamnosus				0	2	1	2	0	0	0	3	0	2
+Environmental	Bacteria	Lactobacillus salivarius				1	0	5	3	0	0	0	8	0	1
+Environmental	Bacteria	Lactobacillus ultunensis				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Lactobacillus vaginalis				0	0	2	0	0	0	0	2	0	0
+Environmental	Bacteria	Lactococcus lactis				0	1	1	3	6	0	0	10	0	1
+Environmental	Bacteria	Laribacter hongkongensis				1	11	4	5	10	0	0	19	0	12
+Environmental	Bacteria	Lautropia mirabilis				0	1	3	2	3	0	0	8	0	1
+Environmental	Bacteria	Leadbetterella byssophila				0	10	1	5	15	0	0	21	0	10
+Environmental	Bacteria	Leeuwenhoekiella blandensis				3	12	17	15	60	0	0	92	0	15
+Environmental	Bacteria	Legionella drancourtii				0	3	2	6	5	0	0	13	0	3
+Environmental	Bacteria	Legionella longbeachae				2	12	0	2	5	0	0	7	0	14
+Environmental	Bacteria	Legionella pneumophila				7	12	5	24	21	0	0	50	0	19
+Environmental	Bacteria	Leifsonia xyli				0	3	1	1	2	0	0	4	0	3
+Environmental	Bacteria	Lentisphaera araneosa				7	36	0	14	24	0	0	38	0	43
+Environmental	Bacteria	Leptospira biflexa				0	8	2	3	7	0	0	12	0	8
+Environmental	Bacteria	Leptospira borgpetersenii				0	1	0	1	0	0	0	1	0	1
+Environmental	Bacteria	Leptospira interrogans				5	5	0	13	7	0	0	20	0	10
+Environmental	Bacteria	Leptospirillum ferrodiazotrophum				4	14	0	1	5	0	0	6	0	18
+Environmental	Bacteria	Leptospirillum rubarum				3	10	0	2	2	0	0	4	0	13
+Environmental	Bacteria	Leptospirillum sp. Group II '5-way CG'				4	9	0	0	1	0	0	1	0	13
+Environmental	Bacteria	Leptothrix cholodnii				4	11	0	9	9	0	0	18	0	15
+Environmental	Bacteria	Leptotrichia buccalis				0	0	0	5	3	0	0	8	0	0
+Environmental	Bacteria	Leptotrichia goodfellowii				0	2	0	3	0	0	0	3	0	2
+Environmental	Bacteria	Leptotrichia shahii				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Leuconostoc citreum				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Leuconostoc mesenteroides				1	1	0	0	1	0	0	1	0	2
+Environmental	Bacteria	Limnobacter sp. MED105				2	8	5	14	9	0	0	28	0	10
+Environmental	Bacteria	Listeria grayi				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Listeria innocua				1	0	2	0	1	0	0	3	0	1
+Environmental	Bacteria	Listeria ivanovii				0	3	0	0	0	0	0	0	0	3
+Environmental	Bacteria	Listeria marthii				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Listeria monocytogenes				5	8	5	0	2	0	0	7	0	13
+Environmental	Bacteria	Listeria seeligeri				1	0	0	2	1	0	0	3	0	1
+Environmental	Bacteria	Loktanella vestfoldensis				2	14	2	17	18	0	0	37	0	16
+Environmental	Bacteria	Lutiella nitroferrum				0	10	5	7	9	0	0	21	0	10
+Environmental	Bacteria	Lyngbya majuscula				1	3	0	0	0	0	0	0	0	4
+Environmental	Bacteria	Lyngbya sp. PCC 8106				20	24	0	17	13	0	0	30	0	44
+Environmental	Bacteria	Lysinibacillus fusiformis				1	4	0	0	4	0	0	4	0	5
+Environmental	Bacteria	Lysinibacillus sphaericus				0	9	0	0	5	0	0	5	0	9
+Environmental	Bacteria	Magnetococcus sp. MC-1				5	20	7	17	15	0	0	39	0	25
+Environmental	Bacteria	Magnetospirillum gryphiswaldense				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Mannheimia haemolytica				0	2	4	5	2	0	0	11	0	2
+Environmental	Bacteria	Maribacter sp. HTCC2170				6	26	11	29	54	0	0	94	0	32
+Environmental	Bacteria	Maricaulis maris				4	23	8	35	71	0	0	114	0	27
+Environmental	Bacteria	marine bacterium 01-004080				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	marine gamma proteobacterium HTCC2080				6	24	24	46	41	0	0	111	0	30
+Environmental	Bacteria	marine gamma proteobacterium HTCC2143				11	35	21	41	30	0	0	92	0	46
+Environmental	Bacteria	marine gamma proteobacterium HTCC2148				13	25	16	35	39	0	0	90	0	38
+Environmental	Bacteria	Marinobacter adhaerens				4	16	13	22	50	0	0	85	0	20
+Environmental	Bacteria	Marinobacter algicola				2	12	19	34	45	0	0	98	0	14
+Environmental	Bacteria	Marinobacter hydrocarbonoclasticus				3	18	42	40	55	0	0	137	0	21
+Environmental	Bacteria	Marinobacter sp. ELB17				2	6	17	28	49	0	0	94	0	8
+Environmental	Bacteria	Marinobacterium sp. KW44				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Marinomonas sp. MED121				0	10	34	31	20	0	0	85	0	10
+Environmental	Bacteria	Marinomonas sp. MWYL1				7	16	39	39	41	0	0	119	0	23
+Environmental	Bacteria	Mariprofundus ferrooxydans				0	9	3	11	2	0	0	16	0	9
+Environmental	Bacteria	Maritimibacter alkaliphilus				7	13	10	31	36	0	0	77	0	20
+Environmental	Bacteria	Marivirga tractuosa				0	16	4	21	35	0	0	60	0	16
+Environmental	Bacteria	Marvinbryantia formatexigens				0	2	0	1	0	0	0	1	0	2
+Environmental	Bacteria	Mastigocladus laminosus				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Megasphaera genomosp. type_1				3	0	0	3	2	0	0	5	0	3
+Environmental	Bacteria	Megasphaera micronuciformis				2	0	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Meiothermus ruber				3	12	0	4	5	0	0	9	0	15
+Environmental	Bacteria	Meiothermus silvanus				2	21	0	7	2	0	0	9	0	23
+Environmental	Bacteria	Mesorhizobium ciceri				5	20	9	10	11	0	0	30	0	25
+Environmental	Bacteria	Mesorhizobium opportunistum				10	25	11	28	20	0	0	59	0	35
+Environmental	Bacteria	Mesorhizobium sp. F28				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Methylacidiphilum infernorum				0	5	0	3	3	0	0	6	0	5
+Environmental	Bacteria	Methylibium petroleiphilum				4	6	1	9	11	0	0	21	0	10
+Environmental	Bacteria	Methylobacillus flagellatus				1	6	10	10	8	0	0	28	0	7
+Environmental	Bacteria	Methylobacter tundripaludum				1	8	7	9	15	0	0	31	0	9
+Environmental	Bacteria	Methylobacterium extorquens				6	29	14	42	36	0	0	92	0	35
+Environmental	Bacteria	Methylobacterium nodulans				8	30	10	13	19	0	0	42	0	38
+Environmental	Bacteria	Methylobacterium organophilum				3	19	5	19	27	0	0	51	0	22
+Environmental	Bacteria	Methylobacterium populi				0	7	1	12	14	0	0	27	0	7
+Environmental	Bacteria	Methylobacterium sp. 4-46				9	23	8	14	19	0	0	41	0	32
+Environmental	Bacteria	Methylocella silvestris				4	7	6	17	17	0	0	40	0	11
+Environmental	Bacteria	Methylococcus capsulatus				10	25	5	25	20	0	0	50	0	35
+Environmental	Bacteria	Methylocystis sp. ATCC 49242				3	9	7	11	14	0	0	32	0	12
+Environmental	Bacteria	Methylophaga thiooxydans				2	8	10	13	13	0	0	36	0	10
+Environmental	Bacteria	Methylophilales bacterium HTCC2181				0	0	2	8	7	0	0	17	0	0
+Environmental	Bacteria	Methylosinus trichosporium				3	8	4	9	9	0	0	22	0	11
+Environmental	Bacteria	Methylotenera mobilis				4	9	0	8	7	0	0	15	0	13
+Environmental	Bacteria	Methylotenera versatilis				2	4	2	3	9	0	0	14	0	6
+Environmental	Bacteria	Methylovorus glucosotrophus				1	4	1	5	8	0	0	14	0	5
+Environmental	Bacteria	Methylovorus sp. MP688				1	2	0	1	4	0	0	5	0	3
+Environmental	Bacteria	Micrococcus luteus				0	1	1	4	0	0	0	5	0	1
+Environmental	Bacteria	Microcoleus chthonoplastes				18	33	2	5	16	0	0	23	0	51
+Environmental	Bacteria	Microcystis wesenbergii				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Micromonospora aurantiaca				3	8	1	0	5	0	0	6	0	11
+Environmental	Bacteria	Micromonospora sp. ATCC 39149				3	3	0	0	2	0	0	2	0	6
+Environmental	Bacteria	Micromonospora sp. L5				2	12	0	3	9	0	0	12	0	14
+Environmental	Bacteria	Microscilla marina				4	15	9	14	43	0	0	66	0	19
+Environmental	Bacteria	Microscilla sp. PRE1				0	2	0	2	1	0	0	3	0	2
+Environmental	Bacteria	Mitsuokella multacida				3	4	0	0	1	0	0	1	0	7
+Environmental	Bacteria	Mobiluncus curtisii				0	0	1	0	1	0	0	2	0	0
+Environmental	Bacteria	Mobiluncus mulieris				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	Moorella thermoacetica				5	27	0	4	5	0	0	9	0	32
+Environmental	Bacteria	Moraxella catarrhalis				0	3	10	5	3	0	0	18	0	3
+Environmental	Bacteria	Moraxella osloensis				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Moritella sp. PE36				1	5	42	27	9	0	0	78	0	6
+Environmental	Bacteria	Mucilaginibacter paludis				4	17	3	10	20	0	0	33	0	21
+Environmental	Bacteria	Mycobacterium avium				3	16	2	5	3	0	0	10	0	19
+Environmental	Bacteria	Mycobacterium bovis				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Mycobacterium gilvum				3	16	0	4	3	0	0	7	0	19
+Environmental	Bacteria	Mycobacterium leprae				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Mycobacterium marinum				0	11	0	1	1	0	0	2	0	11
+Environmental	Bacteria	Mycobacterium parascrofulaceum				2	18	0	1	0	0	0	1	0	20
+Environmental	Bacteria	Mycobacterium smegmatis				7	21	0	3	6	0	0	9	0	28
+Environmental	Bacteria	Mycobacterium sp. JLS				5	15	3	9	5	0	0	17	0	20
+Environmental	Bacteria	Mycobacterium sp. KMS				5	12	3	3	2	0	0	8	0	17
+Environmental	Bacteria	Mycobacterium sp. MCS				5	12	3	3	2	0	0	8	0	17
+Environmental	Bacteria	Mycobacterium tuberculosis				2	22	0	5	7	0	0	12	0	24
+Environmental	Bacteria	Mycobacterium ulcerans				3	4	0	4	4	0	0	8	0	7
+Environmental	Bacteria	Mycobacterium vanbaalenii				3	24	0	9	8	0	0	17	0	27
+Environmental	Bacteria	Mycoplasma capricolum				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Mycoplasma hyopneumoniae				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Mycoplasma mycoides				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Myxococcus xanthus				13	42	6	10	22	0	0	38	0	55
+Environmental	Bacteria	Nakamurella multipartita				2	14	1	7	7	0	0	15	0	16
+Environmental	Bacteria	Natranaerobius thermophilus				0	6	2	5	1	0	0	8	0	6
+Environmental	Bacteria	Nautilia profundicola				0	1	2	2	2	0	0	6	0	1
+Environmental	Bacteria	Neisseria cinerea				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Neisseria elongata				0	3	1	2	3	0	0	6	0	3
+Environmental	Bacteria	Neisseria flavescens				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	Neisseria gonorrhoeae				0	1	9	5	4	0	0	18	0	1
+Environmental	Bacteria	Neisseria lactamica				1	2	0	2	0	0	0	2	0	3
+Environmental	Bacteria	Neisseria meningitidis				1	2	2	11	9	0	0	22	0	3
+Environmental	Bacteria	Neisseria mucosa				0	2	0	2	1	0	0	3	0	2
+Environmental	Bacteria	Neisseria sicca				0	0	1	2	0	0	0	3	0	0
+Environmental	Bacteria	Neisseria sp. oral taxon 014				0	2	2	0	1	0	0	3	0	2
+Environmental	Bacteria	Neisseria subflava				0	0	0	0	4	0	0	4	0	0
+Environmental	Bacteria	Neorickettsia risticii				0	0	0	2	3	0	0	5	0	0
+Environmental	Bacteria	Neorickettsia sennetsu				0	0	0	9	3	0	0	12	0	0
+Environmental	Bacteria	Neptuniibacter caesariensis				6	15	19	27	31	0	0	77	0	21
+Environmental	Bacteria	Nitratifractor salsuginis				0	3	1	1	0	0	0	2	0	3
+Environmental	Bacteria	Nitrobacter hamburgensis				2	9	4	22	19	0	0	45	0	11
+Environmental	Bacteria	Nitrobacter sp. Nb-311A				1	9	1	7	11	0	0	19	0	10
+Environmental	Bacteria	Nitrobacter winogradskyi				2	9	6	31	23	0	0	60	0	11
+Environmental	Bacteria	Nitrococcus mobilis				5	34	5	8	15	0	0	28	0	39
+Environmental	Bacteria	Nitrosococcus halophilus				8	24	10	16	18	0	0	44	0	32
+Environmental	Bacteria	Nitrosococcus oceani				11	26	10	26	29	0	0	65	0	37
+Environmental	Bacteria	Nitrosococcus watsonii				0	13	2	8	7	0	0	17	0	13
+Environmental	Bacteria	Nitrosomonas eutropha				2	8	7	14	12	0	0	33	0	10
+Environmental	Bacteria	Nitrosomonas sp. AL212				0	6	1	7	6	0	0	14	0	6
+Environmental	Bacteria	Nitrosospira multiformis				4	8	5	12	11	0	0	28	0	12
+Environmental	Bacteria	Nitrosospira sp. PJA1				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Nocardioides sp. JS614				0	20	3	6	13	0	0	22	0	20
+Environmental	Bacteria	Nocardiopsis dassonvillei				0	14	0	7	5	0	0	12	0	14
+Environmental	Bacteria	Nodularia spumigena				15	20	2	11	7	0	0	20	0	35
+Environmental	Bacteria	Nonomuraea sp. ATCC 39727				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Nostoc flagelliforme				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Nostoc punctiforme				34	43	6	14	12	0	0	32	0	77
+Environmental	Bacteria	Nostoc sp. 'Peltigera membranacea cyanobiont'				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Novosphingobium aromaticivorans				5	11	6	16	36	0	0	58	0	16
+Environmental	Bacteria	Oceanicaulis sp. HTCC2633				7	14	8	17	65	0	0	90	0	21
+Environmental	Bacteria	Oceanicola granulosus				2	16	6	23	19	0	0	48	0	18
+Environmental	Bacteria	Oceanimonas sp. Be07				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Oceanithermus profundus				3	9	0	7	4	0	0	11	0	12
+Environmental	Bacteria	Ochrobactrum anthropi				6	13	11	34	28	0	0	73	0	19
+Environmental	Bacteria	Ochrobactrum intermedium				0	1	2	8	6	0	0	16	0	1
+Environmental	Bacteria	Octadecabacter antarcticus				8	28	9	36	52	0	0	97	0	36
+Environmental	Bacteria	Oenococcus oeni				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Oligotropha carboxidovorans				5	9	5	29	15	0	0	49	0	14
+Environmental	Bacteria	Onion proliferation phytoplasma				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Opitutus terrae				4	25	3	9	18	0	0	30	0	29
+Environmental	Bacteria	Oribacterium sinus				1	1	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Oribacterium sp. oral taxon 078				1	2	0	0	0	0	0	0	0	3
+Environmental	Bacteria	Oscillochloris trichoides				9	24	3	1	6	0	0	10	0	33
+Environmental	Bacteria	Oxalobacter formigenes				1	3	5	4	4	0	0	13	0	4
+Environmental	Bacteria	Paenarthrobacter aurescens				3	8	0	3	2	0	0	5	0	11
+Environmental	Bacteria	Paenibacillus curdlanolyticus				1	2	1	1	0	0	0	2	0	3
+Environmental	Bacteria	Paenibacillus larvae				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Paenibacillus mucilaginosus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Paenibacillus polymyxa				3	18	1	1	6	0	0	8	0	21
+Environmental	Bacteria	Paenibacillus sp. JDR-2				0	28	1	4	6	0	0	11	0	28
+Environmental	Bacteria	Paenibacillus sp. oral taxon 786				2	16	1	2	0	0	0	3	0	18
+Environmental	Bacteria	Paenibacillus sp. Y412MC10				0	17	2	2	7	0	0	11	0	17
+Environmental	Bacteria	Paenibacillus vortex				1	6	0	4	1	0	0	5	0	7
+Environmental	Bacteria	Paludibacter propionicigenes				0	3	0	0	10	0	0	10	0	3
+Environmental	Bacteria	Pantoea ananatis				0	6	9	5	4	0	0	18	0	6
+Environmental	Bacteria	Pantoea sp. aB				0	0	6	0	1	0	0	7	0	0
+Environmental	Bacteria	Pantoea sp. At-9b				1	3	14	11	9	0	0	34	0	4
+Environmental	Bacteria	Pantoea vagans				0	4	10	7	1	0	0	18	0	4
+Environmental	Bacteria	Parabacteroides distasonis				1	13	0	5	20	0	0	25	0	14
+Environmental	Bacteria	Parabacteroides johnsonii				3	3	0	0	7	0	0	7	0	6
+Environmental	Bacteria	Parabacteroides merdae				0	4	0	0	12	0	0	12	0	4
+Environmental	Bacteria	Parabacteroides sp. D13				0	6	0	2	10	0	0	12	0	6
+Environmental	Bacteria	Paraburkholderia graminis				0	5	1	5	3	0	0	9	0	5
+Environmental	Bacteria	Paraburkholderia phymatum				4	6	5	16	14	0	0	35	0	10
+Environmental	Bacteria	Paraburkholderia phytofirmans				1	9	0	6	5	0	0	11	0	10
+Environmental	Bacteria	Paraburkholderia xenovorans				7	15	2	17	16	0	0	35	0	22
+Environmental	Bacteria	Parachlamydia acanthamoebae				3	2	0	6	2	0	0	8	0	5
+Environmental	Bacteria	Paracoccus aminophilus				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Paracoccus denitrificans				10	18	8	34	38	0	0	80	0	28
+Environmental	Bacteria	Paracoccus marcusii				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Paracoccus pantotrophus				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Parvibaculum lavamentivorans				9	43	17	84	73	0	0	174	0	52
+Environmental	Bacteria	Parvibaculum sp. P31				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Parvimonas micra				0	1	2	0	1	0	0	3	0	1
+Environmental	Bacteria	Parvularcula bermudensis				4	15	9	25	33	0	0	67	0	19
+Environmental	Bacteria	Pasteurella caballi				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Pasteurella dagmatis				1	0	3	3	4	0	0	10	0	1
+Environmental	Bacteria	Pasteurella multocida				0	0	11	11	4	0	0	26	0	0
+Environmental	Bacteria	Pectobacterium carotovorum				1	1	12	11	11	0	0	34	0	2
+Environmental	Bacteria	Pectobacterium wasabiae				1	0	7	7	6	0	0	20	0	1
+Environmental	Bacteria	Pediococcus pentosaceus				4	14	0	2	2	0	0	4	0	18
+Environmental	Bacteria	Pedobacter heparinus				2	20	9	19	24	0	0	52	0	22
+Environmental	Bacteria	Pedobacter saltans				0	10	2	5	22	0	0	29	0	10
+Environmental	Bacteria	Pedobacter sp. BAL39				3	9	3	12	23	0	0	38	0	12
+Environmental	Bacteria	Pedosphaera parvula				8	47	1	12	23	0	0	36	0	55
+Environmental	Bacteria	Pelagibaca bermudensis				5	23	5	23	60	0	0	88	0	28
+Environmental	Bacteria	Pelobacter carbinolicus				5	23	3	6	15	0	0	24	0	28
+Environmental	Bacteria	Pelobacter propionicus				6	17	2	7	11	0	0	20	0	23
+Environmental	Bacteria	Peptoniphilus duerdenii				0	0	0	2	1	0	0	3	0	0
+Environmental	Bacteria	Peptoniphilus lacrimalis				1	0	0	4	0	0	0	4	0	1
+Environmental	Bacteria	Peptoniphilus sp. oral taxon 386				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Peptostreptococcus stomatis				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Persephonella marina				0	4	1	1	2	0	0	4	0	4
+Environmental	Bacteria	Petrotoga mobilis				1	3	1	0	5	0	0	6	0	4
+Environmental	Bacteria	Phaeobacter gallaeciensis				2	16	10	30	37	0	0	77	0	18
+Environmental	Bacteria	Phascolarctobacterium succinatutens				0	3	0	0	0	0	0	0	0	3
+Environmental	Bacteria	Phenylobacterium zucineum				1	25	11	29	39	0	0	79	0	26
+Environmental	Bacteria	Photobacterium angustum				2	3	47	26	17	0	0	90	0	5
+Environmental	Bacteria	Photobacterium damselae				1	0	29	22	14	0	0	65	0	1
+Environmental	Bacteria	Photobacterium leiognathi				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Photobacterium profundum				0	9	51	12	7	0	0	70	0	9
+Environmental	Bacteria	Photobacterium sp. SKA34				1	1	20	9	9	0	0	38	0	2
+Environmental	Bacteria	Phytoplasma sp.				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pirellula staleyi				11	77	2	4	36	0	0	42	0	88
+Environmental	Bacteria	Planctopirus limnophila				10	42	1	5	13	0	0	19	0	52
+Environmental	Bacteria	Planococcus donghaensis				0	5	0	0	2	0	0	2	0	5
+Environmental	Bacteria	Plesiocystis pacifica				13	42	2	7	18	0	0	27	0	55
+Environmental	Bacteria	Plesiomonas shigelloides				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Polaribacter irgensii				1	7	10	19	35	0	0	64	0	8
+Environmental	Bacteria	Polaribacter sp. MED152				6	5	9	20	48	0	0	77	0	11
+Environmental	Bacteria	Polaromonas naphthalenivorans				1	8	0	8	4	0	0	12	0	9
+Environmental	Bacteria	Polaromonas sp. JS666				10	14	4	8	11	0	0	23	0	24
+Environmental	Bacteria	Polynucleobacter necessarius				1	3	3	9	15	0	0	27	0	4
+Environmental	Bacteria	Porphyromonas asaccharolytica				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Porphyromonas endodontalis				2	0	0	3	3	0	0	6	0	2
+Environmental	Bacteria	Porphyromonas gingivalis				2	8	2	4	3	0	0	9	0	10
+Environmental	Bacteria	Porphyromonas uenonis				0	1	1	0	0	0	0	1	0	1
+Environmental	Bacteria	Prevotella amnii				0	2	1	1	1	0	0	3	0	2
+Environmental	Bacteria	Prevotella bergensis				1	0	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Prevotella bivia				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Prevotella bryantii				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Prevotella buccae				0	1	1	0	0	0	0	1	0	1
+Environmental	Bacteria	Prevotella buccalis				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Prevotella copri				0	0	0	0	5	0	0	5	0	0
+Environmental	Bacteria	Prevotella disiens				0	1	1	0	2	0	0	3	0	1
+Environmental	Bacteria	Prevotella melaninogenica				0	2	3	2	7	0	0	12	0	2
+Environmental	Bacteria	Prevotella oralis				0	2	0	0	2	0	0	2	0	2
+Environmental	Bacteria	Prevotella oris				0	1	0	0	3	0	0	3	0	1
+Environmental	Bacteria	Prevotella ruminicola				0	1	0	1	5	0	0	6	0	1
+Environmental	Bacteria	Prevotella salivae				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Prevotella sp. oral taxon 299				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Prevotella sp. oral taxon 317				0	4	2	0	1	0	0	3	0	4
+Environmental	Bacteria	Prevotella sp. oral taxon 472				0	1	0	2	2	0	0	4	0	1
+Environmental	Bacteria	Prevotella timonensis				0	0	0	2	3	0	0	5	0	0
+Environmental	Bacteria	Prevotella veroralis				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Prochlorococcus marinus				8	10	953	4201	1898	0	0	7052	0	18
+Environmental	Bacteria	Prochlorothrix hollandica				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Propionibacterium acnes				2	13	4	3	5	0	0	12	0	15
+Environmental	Bacteria	Prosthecochloris aestuarii				3	7	0	2	0	0	0	2	0	10
+Environmental	Bacteria	Proteus mirabilis				0	2	11	8	8	0	0	27	0	2
+Environmental	Bacteria	Proteus penneri				0	0	7	2	2	0	0	11	0	0
+Environmental	Bacteria	Proteus vulgaris				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Providencia alcalifaciens				1	2	13	6	6	0	0	25	0	3
+Environmental	Bacteria	Providencia rettgeri				0	3	21	11	8	0	0	40	0	3
+Environmental	Bacteria	Providencia rustigianii				0	1	11	3	5	0	0	19	0	1
+Environmental	Bacteria	Providencia stuartii				1	0	12	6	4	0	0	22	0	1
+Environmental	Bacteria	Pseudarthrobacter chlorophenolicus				4	0	0	0	0	0	0	0	0	4
+Environmental	Bacteria	Pseudarthrobacter phenanthrenivorans				0	5	0	3	2	0	0	5	0	5
+Environmental	Bacteria	Pseudoalteromonas atlantica				5	19	116	143	176	0	0	435	0	24
+Environmental	Bacteria	Pseudoalteromonas elyakovii				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudoalteromonas haloplanktis				0	0	5	1	3	0	0	9	0	0
+Environmental	Bacteria	Pseudoalteromonas sp. BB1				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudoalteromonas sp. BSi20327				0	0	11	0	0	0	0	11	0	0
+Environmental	Bacteria	Pseudoalteromonas sp. NM-2001				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Pseudoalteromonas sp. S9				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Pseudoalteromonas sp. SM495				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudoalteromonas sp. SM9913				0	2	576	211	28	0	0	815	0	2
+Environmental	Bacteria	Pseudoalteromonas sp. XM2107				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudoalteromonas tunicata				0	4	391	199	53	0	0	643	0	4
+Environmental	Bacteria	Pseudodesulfovibrio aespoeensis				5	6	2	6	4	0	0	12	0	11
+Environmental	Bacteria	Pseudoflavonifractor capillosus				0	4	0	4	1	0	0	5	0	4
+Environmental	Bacteria	Pseudomonas				2	11	31	30	20	0	0	81	0	13
+Environmental	Bacteria	Pseudomonas aeruginosa				10	52	43	77	70	0	0	190	0	62
+Environmental	Bacteria	Pseudomonas alcaligenes				0	1	1	0	1	0	0	2	0	1
+Environmental	Bacteria	Pseudomonas fluorescens				15	35	77	75	50	0	0	202	0	50
+Environmental	Bacteria	Pseudomonas mendocina				9	15	18	28	32	0	0	78	0	24
+Environmental	Bacteria	Pseudomonas nitroreducens				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Pseudomonas putida				9	36	85	56	62	0	0	203	0	45
+Environmental	Bacteria	Pseudomonas resinovorans				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. ADP				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Pseudomonas sp. C6-11				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. C6-16				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. C6-9				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. CT14				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. J465				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. K94.31				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. M1(2010b)				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. ND6				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. S7-29				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. S7-46				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. S7-52				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. S8-151				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas sp. UK4				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Pseudomonas stutzeri				9	8	14	33	24	0	0	71	0	17
+Environmental	Bacteria	Pseudomonas syringae				6	28	44	52	49	0	0	145	0	34
+Environmental	Bacteria	Pseudonocardia chloroethenivorans				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Pseudooceanicola batsensis				3	19	4	26	44	0	0	74	0	22
+Environmental	Bacteria	Pseudoramibacter alactolyticus				0	1	0	1	1	0	0	2	0	1
+Environmental	Bacteria	Pseudothermotoga				0	5	0	5	0	0	0	5	0	5
+Environmental	Bacteria	Pseudovibrio sp. JE062				0	14	8	36	30	0	0	74	0	14
+Environmental	Bacteria	Pseudoxanthomonas suwonensis				2	0	5	7	8	0	0	20	0	2
+Environmental	Bacteria	Psychrobacter arcticus				1	5	27	14	6	0	0	47	0	6
+Environmental	Bacteria	Psychrobacter cryohalolentis				4	3	32	10	2	0	0	44	0	7
+Environmental	Bacteria	Psychrobacter sp. PRwf-1				0	0	28	9	10	0	0	47	0	0
+Environmental	Bacteria	Psychroflexus torquis				3	10	11	20	32	0	0	63	0	13
+Environmental	Bacteria	Psychromonas ingrahamii				0	5	40	34	31	0	0	105	0	5
+Environmental	Bacteria	Psychromonas sp. CNPT3				0	4	18	14	5	0	0	37	0	4
+Environmental	Bacteria	Pyramidobacter piscolens				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Rahnella sp. Y9602				0	3	12	7	1	0	0	20	0	3
+Environmental	Bacteria	Ralstonia pickettii				2	10	7	9	9	0	0	25	0	12
+Environmental	Bacteria	Ralstonia solanacearum				0	2	4	8	4	0	0	16	0	2
+Environmental	Bacteria	Ralstonia sp. 5_7_47FAA				0	3	1	2	5	0	0	8	0	3
+Environmental	Bacteria	Raphidiopsis brookii				5	0	1	5	8	0	0	14	0	5
+Environmental	Bacteria	Reinekea blandensis				0	8	23	28	30	0	0	81	0	8
+Environmental	Bacteria	Renibacterium salmoninarum				0	4	2	1	1	0	0	4	0	4
+Environmental	Bacteria	Rhizobium etli				7	37	3	51	32	0	0	86	0	44
+Environmental	Bacteria	Rhizobium leguminosarum				4	34	12	37	33	0	0	82	0	38
+Environmental	Bacteria	Rhodobacter capsulatus				5	9	5	21	20	0	0	46	0	14
+Environmental	Bacteria	Rhodobacter sp. SW2				3	9	4	14	18	0	0	36	0	12
+Environmental	Bacteria	Rhodobacter sphaeroides				10	40	24	93	90	0	0	207	0	50
+Environmental	Bacteria	Rhodobacteraceae bacterium HTCC2083				5	13	13	32	32	0	0	77	0	18
+Environmental	Bacteria	Rhodobacteraceae bacterium HTCC2150				7	5	6	31	26	0	0	63	0	12
+Environmental	Bacteria	Rhodobacteraceae bacterium KLH11				5	18	8	11	28	0	0	47	0	23
+Environmental	Bacteria	Rhodobacterales bacterium HTCC2255				0	9	9	45	29	0	0	83	0	9
+Environmental	Bacteria	Rhodobacterales bacterium Y4I				7	18	12	15	26	0	0	53	0	25
+Environmental	Bacteria	Rhodocista centenaria				12	33	14	58	38	0	0	110	0	45
+Environmental	Bacteria	Rhodococcus erythropolis				1	6	1	5	5	0	0	11	0	7
+Environmental	Bacteria	Rhodococcus hoagii				0	13	0	3	1	0	0	4	0	13
+Environmental	Bacteria	Rhodococcus jostii				7	21	2	9	6	0	0	17	0	28
+Environmental	Bacteria	Rhodococcus sp. NCIMB 12038				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Rhodoferax ferrireducens				0	6	2	15	6	0	0	23	0	6
+Environmental	Bacteria	Rhodomicrobium vannielii				4	8	5	20	24	0	0	49	0	12
+Environmental	Bacteria	Rhodopirellula baltica				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Rhodopirellula sp. 8C				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Rhodopseudomonas palustris				25	89	42	163	115	0	0	320	0	114
+Environmental	Bacteria	Rhodospirillum rubrum				6	26	16	42	42	0	0	100	0	32
+Environmental	Bacteria	Rhodothermus marinus				14	91	4	14	31	0	0	49	0	105
+Environmental	Bacteria	Rickettsia africae				0	0	3	0	0	0	0	3	0	0
+Environmental	Bacteria	Rickettsia akari				0	0	1	7	2	0	0	10	0	0
+Environmental	Bacteria	Rickettsia bellii				0	2	0	21	8	0	0	29	0	2
+Environmental	Bacteria	Rickettsia canadensis				1	2	0	9	11	0	0	20	0	3
+Environmental	Bacteria	Rickettsia endosymbiont of Brachys tessellatus				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Rickettsia endosymbiont of Ixodes scapularis				0	2	0	3	3	0	0	6	0	2
+Environmental	Bacteria	Rickettsia felis				0	1	1	2	7	0	0	10	0	1
+Environmental	Bacteria	Rickettsia massiliae				0	1	0	1	0	0	0	1	0	1
+Environmental	Bacteria	Rickettsia peacockii				0	0	2	1	2	0	0	5	0	0
+Environmental	Bacteria	Rickettsia prowazekii				0	3	1	17	7	0	0	25	0	3
+Environmental	Bacteria	Rickettsia rickettsii				1	0	3	22	8	0	0	33	0	1
+Environmental	Bacteria	Rickettsia typhi				0	0	2	6	2	0	0	10	0	0
+Environmental	Bacteria	Rickettsiella grylli				0	1	0	7	5	0	0	12	0	1
+Environmental	Bacteria	Riemerella anatipestifer				0	0	1	10	10	0	0	21	0	0
+Environmental	Bacteria	Robbea sp. 2 SB-2008 associated bacterium				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Robiginitalea biformata				7	23	13	31	52	0	0	96	0	30
+Environmental	Bacteria	Roseburia intestinalis				2	2	1	3	2	0	0	6	0	4
+Environmental	Bacteria	Roseburia inulinivorans				0	1	0	4	0	0	0	4	0	1
+Environmental	Bacteria	Roseibium sp. TrichSKD4				5	22	3	31	30	0	0	64	0	27
+Environmental	Bacteria	Roseiflexus castenholzii				16	63	2	7	6	0	0	15	0	79
+Environmental	Bacteria	Roseiflexus sp. RS-1				16	59	1	7	1	0	0	9	0	75
+Environmental	Bacteria	Roseivivax halodurans				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Roseobacter denitrificans				2	27	14	58	52	0	0	124	0	29
+Environmental	Bacteria	Roseobacter litoralis				1	13	1	25	25	0	0	51	0	14
+Environmental	Bacteria	Roseobacter sp. AzwK-3b				5	16	5	26	31	0	0	62	0	21
+Environmental	Bacteria	Roseobacter sp. CCS2				1	17	7	21	21	0	0	49	0	18
+Environmental	Bacteria	Roseobacter sp. GAI101				0	24	5	32	45	0	0	82	0	24
+Environmental	Bacteria	Roseobacter sp. MED193				3	21	10	24	30	0	0	64	0	24
+Environmental	Bacteria	Roseobacter sp. SK209-2-6				3	25	6	20	21	0	0	47	0	28
+Environmental	Bacteria	Roseomonas cervicalis				5	22	5	12	14	0	0	31	0	27
+Environmental	Bacteria	Roseovarius nubinhibens				2	24	4	32	32	0	0	68	0	26
+Environmental	Bacteria	Roseovarius sp. 217				7	14	11	33	34	0	0	78	0	21
+Environmental	Bacteria	Roseovarius sp. TM1035				8	16	11	18	35	0	0	64	0	24
+Environmental	Bacteria	Rothia dentocariosa				0	1	1	1	0	0	0	2	0	1
+Environmental	Bacteria	Rothia mucilaginosa				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Rubinisphaera brasiliensis				12	60	2	5	32	0	0	39	0	72
+Environmental	Bacteria	Rubrobacter xylanophilus				6	31	1	5	6	0	0	12	0	37
+Environmental	Bacteria	Ruegeria lacuscaerulensis				7	25	5	32	25	0	0	62	0	32
+Environmental	Bacteria	Ruegeria pomeroyi				8	25	12	70	70	0	0	152	0	33
+Environmental	Bacteria	Ruegeria sp. PR1b				1	0	0	0	2	0	0	2	0	1
+Environmental	Bacteria	Ruegeria sp. R11				2	11	1	13	22	0	0	36	0	13
+Environmental	Bacteria	Ruegeria sp. TM1040				3	22	15	53	59	0	0	127	0	25
+Environmental	Bacteria	Ruminococcus albus				0	2	2	0	3	0	0	5	0	2
+Environmental	Bacteria	Ruminococcus gnavus				0	2	0	0	2	0	0	2	0	2
+Environmental	Bacteria	Ruminococcus lactaris				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Ruminococcus sp. 5_1_39BFAA				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Ruminococcus torques				0	2	2	3	0	0	0	5	0	2
+Environmental	Bacteria	Ruthia magnifica				4	2	0	10	3	0	0	13	0	6
+Environmental	Bacteria	Saccharomonospora viridis				4	14	1	3	7	0	0	11	0	18
+Environmental	Bacteria	Saccharophagus degradans				10	17	48	50	39	0	0	137	0	27
+Environmental	Bacteria	Saccharopolyspora spinosa				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Sagittula stellata				6	17	9	21	28	0	0	58	0	23
+Environmental	Bacteria	Salinibacter ruber				8	36	1	8	10	0	0	19	0	44
+Environmental	Bacteria	Salinispora arenicola				2	8	0	5	7	0	0	12	0	10
+Environmental	Bacteria	Salinispora tropica				0	13	0	3	1	0	0	4	0	13
+Environmental	Bacteria	Salmonella enterica				6	11	82	31	30	0	0	143	0	17
+Environmental	Bacteria	Sanguibacter keddieii				0	7	0	4	1	0	0	5	0	7
+Environmental	Bacteria	Sebaldella termitidis				0	5	1	7	2	0	0	10	0	5
+Environmental	Bacteria	Sediminispirochaeta smaragdinae				0	10	1	2	4	0	0	7	0	10
+Environmental	Bacteria	Segniliparus rotundus				0	3	1	3	0	0	0	4	0	3
+Environmental	Bacteria	Segniliparus rugosus				0	0	0	0	3	0	0	3	0	0
+Environmental	Bacteria	Selenomonas artemidis				0	4	0	0	0	0	0	0	0	4
+Environmental	Bacteria	Selenomonas flueggei				1	3	0	0	4	0	0	4	0	4
+Environmental	Bacteria	Selenomonas noxia				0	4	0	1	1	0	0	2	0	4
+Environmental	Bacteria	Selenomonas sp. oral taxon 137				0	3	0	0	0	0	0	0	0	3
+Environmental	Bacteria	Selenomonas sp. oral taxon 149				0	3	0	0	2	0	0	2	0	3
+Environmental	Bacteria	Selenomonas sputigena				1	4	0	1	0	0	0	1	0	5
+Environmental	Bacteria	Serratia entomophila				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Serratia marcescens				0	0	3	0	1	0	0	4	0	0
+Environmental	Bacteria	Serratia odorifera				1	5	13	17	9	0	0	39	0	6
+Environmental	Bacteria	Serratia proteamaculans				3	7	23	16	19	0	0	58	0	10
+Environmental	Bacteria	Serratia symbiotica				0	0	3	3	2	0	0	8	0	0
+Environmental	Bacteria	Shewanella amazonensis				4	12	53	53	27	0	0	133	0	16
+Environmental	Bacteria	Shewanella baltica				6	11	103	70	56	0	0	229	0	17
+Environmental	Bacteria	Shewanella benthica				0	3	26	26	8	0	0	60	0	3
+Environmental	Bacteria	Shewanella denitrificans				0	13	55	40	24	0	0	119	0	13
+Environmental	Bacteria	Shewanella frigidimarina				3	5	74	35	31	0	0	140	0	8
+Environmental	Bacteria	Shewanella halifaxensis				2	9	20	25	20	0	0	65	0	11
+Environmental	Bacteria	Shewanella hanedai				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Shewanella loihica				2	7	64	48	26	0	0	138	0	9
+Environmental	Bacteria	Shewanella oneidensis				0	8	56	28	22	0	0	106	0	8
+Environmental	Bacteria	Shewanella pealeana				2	7	59	44	20	0	0	123	0	9
+Environmental	Bacteria	Shewanella piezotolerans				0	2	30	35	20	0	0	85	0	2
+Environmental	Bacteria	Shewanella putrefaciens				0	8	41	42	20	0	0	103	0	8
+Environmental	Bacteria	Shewanella sediminis				5	7	50	35	29	0	0	114	0	12
+Environmental	Bacteria	Shewanella sp. Ac10				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Shewanella sp. ANA-3				0	4	45	31	15	0	0	91	0	4
+Environmental	Bacteria	Shewanella sp. MR-4				1	2	52	23	21	0	0	96	0	3
+Environmental	Bacteria	Shewanella sp. MR-7				0	4	44	21	13	0	0	78	0	4
+Environmental	Bacteria	Shewanella sp. W3-18-1				1	7	64	42	18	0	0	124	0	8
+Environmental	Bacteria	Shewanella woodyi				0	11	50	34	21	0	0	105	0	11
+Environmental	Bacteria	Shigella boydii				0	3	25	8	7	0	0	40	0	3
+Environmental	Bacteria	Shigella dysenteriae				0	1	27	7	6	0	0	40	0	1
+Environmental	Bacteria	Shigella flexneri				0	5	41	11	10	0	0	62	0	5
+Environmental	Bacteria	Shigella sonnei				1	1	26	7	4	0	0	37	0	2
+Environmental	Bacteria	Shuttleworthia satelles				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Sideroxydans lithotrophicus				0	6	3	8	8	0	0	19	0	6
+Environmental	Bacteria	Silicibacter sp. TrichCH4B				3	4	5	16	35	0	0	56	0	7
+Environmental	Bacteria	Simonsiella muelleri				0	0	1	2	3	0	0	6	0	0
+Environmental	Bacteria	Sinorhizobium fredii				7	22	4	27	17	0	0	48	0	29
+Environmental	Bacteria	Sinorhizobium medicae				3	22	9	39	22	0	0	70	0	25
+Environmental	Bacteria	Sinorhizobium meliloti				13	21	8	40	39	0	0	87	0	34
+Environmental	Bacteria	Slackia exigua				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Slackia heliotrinireducens				4	1	0	0	3	0	0	3	0	5
+Environmental	Bacteria	Sorangium cellulosum				0	3	0	0	1	0	0	1	0	3
+Environmental	Bacteria	Sphaerobacter thermophilus				10	42	0	4	4	0	0	8	0	52
+Environmental	Bacteria	Sphingobacterium sp. TN19				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Sphingobacterium spiritivorum				0	15	3	14	27	0	0	44	0	15
+Environmental	Bacteria	Sphingobium chlorophenolicum				2	8	5	13	20	0	0	38	0	10
+Environmental	Bacteria	Sphingobium francense				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Sphingomonas sp. SKA58				1	4	9	15	19	0	0	43	0	5
+Environmental	Bacteria	Sphingomonas sp. ZP1				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Sphingomonas wittichii				6	27	9	41	29	0	0	79	0	33
+Environmental	Bacteria	Sphingopyxis alaskensis				0	12	10	28	28	0	0	66	0	12
+Environmental	Bacteria	Spirochaeta thermophila				0	11	3	6	2	0	0	11	0	11
+Environmental	Bacteria	Spirosoma linguale				10	30	2	19	56	0	0	77	0	40
+Environmental	Bacteria	Stackebrandtia nassauensis				2	18	1	6	6	0	0	13	0	20
+Environmental	Bacteria	Staphylococcus aureus				2	3	6	6	2	0	0	14	0	5
+Environmental	Bacteria	Staphylococcus capitis				0	0	5	3	0	0	0	8	0	0
+Environmental	Bacteria	Staphylococcus caprae				0	1	0	2	0	0	0	2	0	1
+Environmental	Bacteria	Staphylococcus epidermidis				1	5	3	4	7	0	0	14	0	6
+Environmental	Bacteria	Staphylococcus hominis				0	0	1	1	1	0	0	3	0	0
+Environmental	Bacteria	Staphylococcus lugdunensis				0	1	3	1	1	0	0	5	0	1
+Environmental	Bacteria	Staphylococcus pseudintermedius				0	1	0	2	4	0	0	6	0	1
+Environmental	Bacteria	Staphylococcus warneri				0	0	3	1	0	0	0	4	0	0
+Environmental	Bacteria	Staphylococcus xylosus				0	0	2	0	0	0	0	2	0	0
+Environmental	Bacteria	Starkeya novella				7	12	6	23	16	0	0	45	0	19
+Environmental	Bacteria	Stenotrophomonas maltophilia				4	8	2	13	12	0	0	27	0	12
+Environmental	Bacteria	Stenotrophomonas sp. SKA14				3	6	3	5	2	0	0	10	0	9
+Environmental	Bacteria	Stigmatella aurantiaca				8	47	8	9	19	0	0	36	0	55
+Environmental	Bacteria	Streptobacillus moniliformis				0	2	2	2	0	0	0	4	0	2
+Environmental	Bacteria	Streptococcus agalactiae				2	1	3	0	0	0	0	3	0	3
+Environmental	Bacteria	Streptococcus anginosus				2	0	2	1	1	0	0	4	0	2
+Environmental	Bacteria	Streptococcus australis				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Streptococcus downei				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Streptococcus dysgalactiae				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Streptococcus equi				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Streptococcus equinus				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Streptococcus gallolyticus				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Streptococcus gordonii				0	0	2	0	0	0	0	2	0	0
+Environmental	Bacteria	Streptococcus infantis				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Streptococcus mitis				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Streptococcus mutans				0	1	0	3	0	0	0	3	0	1
+Environmental	Bacteria	Streptococcus parasanguinis				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Streptococcus peroris				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Streptococcus pneumoniae				2	0	1	5	2	0	0	8	0	2
+Environmental	Bacteria	Streptococcus pyogenes				0	1	1	2	0	0	0	3	0	1
+Environmental	Bacteria	Streptococcus sp. 2_1_36FAA				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Streptococcus suis				0	3	0	1	0	0	0	1	0	3
+Environmental	Bacteria	Streptococcus thermophilus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Streptomyces achromogenes				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Streptomyces albidoflavus				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Streptomyces albus				0	9	2	0	3	0	0	5	0	9
+Environmental	Bacteria	Streptomyces bingchenggensis				3	13	2	3	6	0	0	11	0	16
+Environmental	Bacteria	Streptomyces clavuligerus				0	6	0	3	0	0	0	3	0	6
+Environmental	Bacteria	Streptomyces filamentosus				2	10	0	0	4	0	0	4	0	12
+Environmental	Bacteria	Streptomyces flavovirens				0	3	0	3	0	0	0	3	0	3
+Environmental	Bacteria	Streptomyces ghanaensis				4	2	0	4	0	0	0	4	0	6
+Environmental	Bacteria	Streptomyces griseoflavus				0	9	2	0	3	0	0	5	0	9
+Environmental	Bacteria	Streptomyces griseus				0	10	4	0	0	0	0	4	0	10
+Environmental	Bacteria	Streptomyces himastatinicus				3	19	4	5	4	0	0	13	0	22
+Environmental	Bacteria	Streptomyces hygroscopicus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Streptomyces lavendulae				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Streptomyces lividans				2	12	2	3	3	0	0	8	0	14
+Environmental	Bacteria	Streptomyces pristinaespiralis				1	7	2	4	6	0	0	12	0	8
+Environmental	Bacteria	Streptomyces sp. AA4				2	20	1	4	3	0	0	8	0	22
+Environmental	Bacteria	Streptomyces sp. C				3	5	1	1	2	0	0	4	0	8
+Environmental	Bacteria	Streptomyces sp. CB2023				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Streptomyces sp. e14				2	8	2	0	2	0	0	4	0	10
+Environmental	Bacteria	Streptomyces sp. Mg1				0	10	1	4	2	0	0	7	0	10
+Environmental	Bacteria	Streptomyces sp. SirexAA-E				3	6	0	0	5	0	0	5	0	9
+Environmental	Bacteria	Streptomyces sp. SPB74				0	5	1	1	0	0	0	2	0	5
+Environmental	Bacteria	Streptomyces sp. SPB78				3	5	0	0	3	0	0	3	0	8
+Environmental	Bacteria	Streptomyces sviceus				2	14	1	3	7	0	0	11	0	16
+Environmental	Bacteria	Streptomyces tsusimaensis				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Streptomyces verticillus				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Streptomyces violaceusniger				2	18	1	0	2	0	0	3	0	20
+Environmental	Bacteria	Streptomyces viridochromogenes				0	5	0	0	4	0	0	4	0	5
+Environmental	Bacteria	Streptosporangium roseum				7	20	1	8	1	0	0	10	0	27
+Environmental	Bacteria	Subdoligranulum variabile				0	3	0	0	0	0	0	0	0	3
+Environmental	Bacteria	Succinatimonas hippei				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	Sulcia muelleri				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	Sulfitobacter indolifex				0	9	8	18	29	0	0	55	0	9
+Environmental	Bacteria	Sulfitobacter sp. EE-36				5	6	8	27	30	0	0	65	0	11
+Environmental	Bacteria	Sulfitobacter sp. NAS-14.1				4	13	9	19	31	0	0	59	0	17
+Environmental	Bacteria	Sulfuricurvum kujiense				0	3	0	3	0	0	0	3	0	3
+Environmental	Bacteria	Sulfurihydrogenibium azorense				0	0	1	2	2	0	0	5	0	0
+Environmental	Bacteria	Sulfurihydrogenibium sp. YO3AOP1				0	3	0	6	6	0	0	12	0	3
+Environmental	Bacteria	Sulfurihydrogenibium yellowstonense				0	0	0	0	3	0	0	3	0	0
+Environmental	Bacteria	Sulfurimonas autotrophica				0	0	3	1	4	0	0	8	0	0
+Environmental	Bacteria	Sulfurimonas denitrificans				1	2	4	3	1	0	0	8	0	3
+Environmental	Bacteria	Sulfurospirillum deleyianum				0	2	4	3	2	0	0	9	0	2
+Environmental	Bacteria	Sutterella wadsworthensis				0	2	0	2	4	0	0	6	0	2
+Environmental	Bacteria	Synechococcus elongatus				1	11	8	30	7	0	0	45	0	12
+Environmental	Bacteria	Synechococcus sp. ARC-11				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Synechococcus sp. ARC-21				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Synechococcus sp. BL107				0	2	14	61	24	0	0	99	0	2
+Environmental	Bacteria	Synechococcus sp. CC9311				1	8	36	139	76	0	0	251	0	9
+Environmental	Bacteria	Synechococcus sp. CC9605				1	2	41	188	87	0	0	316	0	3
+Environmental	Bacteria	Synechococcus sp. CC9902				0	2	35	140	71	0	0	246	0	2
+Environmental	Bacteria	Synechococcus sp. JA-2-3B'a(2-13)				3	7	0	10	12	0	0	22	0	10
+Environmental	Bacteria	Synechococcus sp. JA-3-3Ab				6	1	2	8	6	0	0	16	0	7
+Environmental	Bacteria	Synechococcus sp. KD3a				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Synechococcus sp. LS0504				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	Synechococcus sp. PCC 7002				1	15	3	11	12	0	0	26	0	16
+Environmental	Bacteria	Synechococcus sp. PCC 7335				5	22	4	14	18	0	0	36	0	27
+Environmental	Bacteria	Synechococcus sp. RS9916				0	5	15	86	38	0	0	139	0	5
+Environmental	Bacteria	Synechococcus sp. RS9917				0	1	18	116	49	0	0	183	0	1
+Environmental	Bacteria	Synechococcus sp. WH 5701				4	4	12	53	32	0	0	97	0	8
+Environmental	Bacteria	Synechococcus sp. WH 7805				1	2	18	97	60	0	0	175	0	3
+Environmental	Bacteria	Synechococcus sp. WH 8109				2	3	17	66	40	0	0	123	0	5
+Environmental	Bacteria	Synechocystis sp.				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Synechocystis sp. PCC 6803				2	0	1	0	0	0	0	1	0	2
+Environmental	Bacteria	Syntrophobacter fumaroxidans				6	26	1	13	11	0	0	25	0	32
+Environmental	Bacteria	Syntrophomonas wolfei				0	9	0	8	6	0	0	14	0	9
+Environmental	Bacteria	Syntrophothermus lipocalidus				0	9	0	0	2	0	0	2	0	9
+Environmental	Bacteria	Syntrophus aciditrophicus				6	29	3	6	7	0	0	16	0	35
+Environmental	Bacteria	Taylorella equigenitalis				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Teredinibacter turnerae				4	17	15	29	31	0	0	75	0	21
+Environmental	Bacteria	Terrabacter sp. DPO360				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Terriglobus saanensis				3	20	0	2	2	0	0	4	0	23
+Environmental	Bacteria	Thalassiobium sp. R2A62				3	19	4	18	20	0	0	42	0	22
+Environmental	Bacteria	Thauera selenatis				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Thauera sp. MZ1T				0	17	4	8	7	0	0	19	0	17
+Environmental	Bacteria	Theonella swinhoei bacterial symbiont clone pSW1H8				0	4	0	0	0	0	0	0	0	4
+Environmental	Bacteria	Thermaerobacter marianensis				7	14	2	2	7	0	0	11	0	21
+Environmental	Bacteria	Thermaerobacter subterraneus				3	13	0	0	0	0	0	0	0	16
+Environmental	Bacteria	Thermanaerovibrio acidaminovorans				1	3	1	0	0	0	0	1	0	4
+Environmental	Bacteria	Thermincola potens				1	8	2	2	0	0	0	4	0	9
+Environmental	Bacteria	Thermoactinomyces sp. CDF				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Thermoactinomyces sp. E79				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Thermoanaerobacter brockii				0	4	0	7	6	0	0	13	0	4
+Environmental	Bacteria	Thermoanaerobacter ethanolicus				0	2	0	2	4	0	0	6	0	2
+Environmental	Bacteria	Thermoanaerobacter pseudethanolicus				0	4	0	7	5	0	0	12	0	4
+Environmental	Bacteria	Thermoanaerobacter sp. X513				0	7	1	9	4	0	0	14	0	7
+Environmental	Bacteria	Thermoanaerobacter sp. X514				0	7	1	9	3	0	0	13	0	7
+Environmental	Bacteria	Thermoanaerobacter sp. X561				0	7	1	8	3	0	0	12	0	7
+Environmental	Bacteria	Thermoanaerobacter thermocopriae				0	3	1	3	0	0	0	4	0	3
+Environmental	Bacteria	Thermoanaerobacter uzonensis				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Thermoanaerobacter wiegelii				2	2	0	0	2	0	0	2	0	4
+Environmental	Bacteria	Thermoanaerobacterium saccharolyticum				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	Thermoanaerobacterium thermosaccharolyticum				1	3	2	6	6	0	0	14	0	4
+Environmental	Bacteria	Thermoanaerobacterium xylanolyticum				3	3	0	0	1	0	0	1	0	6
+Environmental	Bacteria	Thermobaculum terrenum				7	32	3	7	10	0	0	20	0	39
+Environmental	Bacteria	Thermobifida fusca				2	11	0	2	5	0	0	7	0	13
+Environmental	Bacteria	Thermobispora bispora				3	7	0	5	2	0	0	7	0	10
+Environmental	Bacteria	Thermochromatium tepidum				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	Thermocrinis albus				0	0	0	5	0	0	0	5	0	0
+Environmental	Bacteria	Thermodesulfovibrio yellowstonii				1	6	0	6	2	0	0	8	0	7
+Environmental	Bacteria	Thermomicrobium roseum				15	21	3	4	0	0	0	7	0	36
+Environmental	Bacteria	Thermomonospora curvata				5	23	0	3	4	0	0	7	0	28
+Environmental	Bacteria	Thermosediminibacter oceani				2	11	0	3	1	0	0	4	0	13
+Environmental	Bacteria	Thermosinus carboxydivorans				0	9	2	2	0	0	0	4	0	9
+Environmental	Bacteria	Thermosipho africanus				1	1	1	2	4	0	0	7	0	2
+Environmental	Bacteria	Thermosipho melanesiensis				1	0	1	3	0	0	0	4	0	1
+Environmental	Bacteria	Thermotoga maritima				3	8	0	4	0	0	0	4	0	11
+Environmental	Bacteria	Thermotoga neapolitana				1	3	1	3	0	0	0	4	0	4
+Environmental	Bacteria	Thermotoga petrophila				3	6	0	0	3	0	0	3	0	9
+Environmental	Bacteria	Thermovibrio ammonificans				0	8	1	1	4	0	0	6	0	8
+Environmental	Bacteria	Thermus aquaticus				1	4	0	5	2	0	0	7	0	5
+Environmental	Bacteria	Thermus scotoductus				3	4	1	1	0	0	0	2	0	7
+Environmental	Bacteria	Thermus thermophilus				10	11	0	1	5	0	0	6	0	21
+Environmental	Bacteria	Thioalkalivibrio sp. K90mix				9	6	4	15	15	0	0	34	0	15
+Environmental	Bacteria	Thioalkalivibrio sulfidiphilus				8	28	8	24	17	0	0	49	0	36
+Environmental	Bacteria	Thiobacillus denitrificans				5	13	0	9	12	0	0	21	0	18
+Environmental	Bacteria	Thiococcus pfennigii				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	Thiomonas intermedia				0	6	3	5	5	0	0	13	0	6
+Environmental	Bacteria	Tolumonas auensis				1	12	16	10	18	0	0	44	0	13
+Environmental	Bacteria	Tolypothrix sp. PCC 7601 				1	1	0	0	0	0	0	0	0	2
+Environmental	Bacteria	Treponema denticola				0	3	1	0	3	0	0	4	0	3
+Environmental	Bacteria	Treponema pallidum				1	5	0	0	0	0	0	0	0	6
+Environmental	Bacteria	Treponema phagedenis				0	3	1	0	1	0	0	2	0	3
+Environmental	Bacteria	Treponema vincentii				0	0	0	1	2	0	0	3	0	0
+Environmental	Bacteria	Trichodesmium erythraeum				58	20	4	19	23	0	0	46	0	78
+Environmental	Bacteria	Trichormus azollae				4	5	2	12	4	0	0	18	0	9
+Environmental	Bacteria	Truepera radiovictrix				5	14	0	0	5	0	0	5	0	19
+Environmental	Bacteria	Tsukamurella paurometabola				1	4	2	3	0	0	0	5	0	5
+Environmental	Bacteria	Turicibacter sanguinis				0	3	0	0	1	0	0	1	0	3
+Environmental	Bacteria	uncultured Acidobacteria bacterium				1	3	0	0	0	0	0	0	0	4
+Environmental	Bacteria	uncultured Acidobacteria bacterium cosmid p2H8				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured Acidobacteriales bacterium HF0200_23L05				1	5	0	0	0	0	0	0	0	6
+Environmental	Bacteria	uncultured Alteromonadales bacterium HF4000_16C08				0	0	2	2	1	0	0	5	0	0
+Environmental	Bacteria	uncultured bacterial symbiont of Discodermia dissoluta				1	7	0	0	0	0	0	0	0	8
+Environmental	Bacteria	uncultured bacterium				6	12	8	18	13	0	0	39	0	18
+Environmental	Bacteria	uncultured bacterium 1116				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured bacterium 164				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured bacterium 2063G				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured bacterium 270				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured bacterium 66				1	2	0	0	0	0	0	0	0	3
+Environmental	Bacteria	uncultured bacterium 70				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured bacterium 888				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	uncultured bacterium AOCefta2				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured bacterium BAC10-10				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured bacterium BAC10-4				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	uncultured bacterium BAC13K9BAC				0	0	3	12	6	0	0	21	0	0
+Environmental	Bacteria	uncultured bacterium BAC17H8				0	0	0	7	3	0	0	10	0	0
+Environmental	Bacteria	uncultured bacterium Bio5				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured bacterium BLR13				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured bacterium BLR18				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured bacterium BLR9				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured bacterium CBNPD1 BAC clone 905				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured bacterium EB000_36F02				0	0	5	21	12	0	0	38	0	0
+Environmental	Bacteria	uncultured bacterium eBACmed18B02				0	0	2	8	7	0	0	17	0	0
+Environmental	Bacteria	uncultured bacterium eBACmed86H08				0	0	4	4	4	0	0	12	0	0
+Environmental	Bacteria	uncultured bacterium eBACred22E04				0	0	0	2	1	0	0	3	0	0
+Environmental	Bacteria	uncultured bacterium FLS18				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured bacterium HF0010_16H03				0	0	2	2	6	0	0	10	0	0
+Environmental	Bacteria	uncultured bacterium HF0070_11A08				0	0	1	2	0	0	0	3	0	0
+Environmental	Bacteria	uncultured bacterium HF0130_06E03				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured bacterium HF0500_16O16				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured bacterium HF186_25m_13D19				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured bacterium HF186_25m_18N5				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured bacterium HF186_25m_27D22				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured bacterium HF4000_009C18				0	0	3	14	6	0	0	23	0	0
+Environmental	Bacteria	uncultured bacterium HF4000_05M23				3	0	0	0	0	0	0	0	0	3
+Environmental	Bacteria	uncultured bacterium HF770_09N20				1	0	2	9	5	0	0	16	0	1
+Environmental	Bacteria	uncultured bacterium MedeBAC35C06				0	0	3	1	3	0	0	7	0	0
+Environmental	Bacteria	uncultured bacterium MedeBAC46A06				0	0	1	0	3	0	0	4	0	0
+Environmental	Bacteria	uncultured bacterium MedeBAC49C08				0	0	1	5	1	0	0	7	0	0
+Environmental	Bacteria	uncultured bacterium MedeBAC82F10				0	0	0	2	2	0	0	4	0	0
+Environmental	Bacteria	uncultured Bacteroidetes bacterium 'SBI2-18 P41A3'				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured Bartonella sp.				0	0	1	0	1	0	0	2	0	0
+Environmental	Bacteria	uncultured Chloroflexi bacterium 1i19				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured Chloroflexi bacterium HF0200_06I16				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured Chloroflexi bacterium HF0200_09I09				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	uncultured Chloroflexi bacterium HF0500_03M05				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured Chloroflexi bacterium HF0770_09E03				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured Chloroflexi bacterium HF4000_28F02				0	5	0	0	0	0	0	0	0	5
+Environmental	Bacteria	uncultured cyanobacterium				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured delta proteobacterium HF0010_10I05				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured delta proteobacterium HF0070_30B07				0	1	0	1	0	0	0	1	0	1
+Environmental	Bacteria	uncultured delta proteobacterium HF0130_05G09				1	1	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured delta proteobacterium HF0130_20J24				0	1	0	2	0	0	0	2	0	1
+Environmental	Bacteria	uncultured delta proteobacterium HF0200_14D13				0	0	1	2	0	0	0	3	0	0
+Environmental	Bacteria	uncultured delta proteobacterium HF0200_19J16				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	uncultured delta proteobacterium HF0770_45N15				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured delta proteobacterium HF4000_08N17				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured Desulfobacterales bacterium HF0200_07G10				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured gamma proteobacterium EB000_37F04				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium EB000_65A11				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium EB080_L93H08				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium EB750_07C09				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium EBAC_27G05				0	0	0	2	5	0	0	7	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium eBACHOT4E07				0	0	1	7	2	0	0	10	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0010_05D02				0	3	1	7	0	0	0	8	0	3
+Environmental	Bacteria	uncultured gamma proteobacterium HF0010_09F21				0	0	0	3	2	0	0	5	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0010_10D20				0	0	1	1	2	0	0	4	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0010_11B23				0	0	0	4	0	0	0	4	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0010_11K06				0	0	0	3	1	0	0	4	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0010_16J05				0	4	0	1	2	0	0	3	0	4
+Environmental	Bacteria	uncultured gamma proteobacterium HF0010_20H22				0	0	0	2	3	0	0	5	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0010_21A16				0	0	1	1	3	0	0	5	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0070_03O15				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0070_08D07				0	0	0	3	0	0	0	3	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0070_10G19				0	0	1	2	1	0	0	4	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0070_25G02				0	0	1	0	1	0	0	2	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0130_23I23				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0130_25M15				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0200_34B07				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0500_07A21				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0770_09E07				0	0	2	1	0	0	0	3	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF0770_28K04				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured gamma proteobacterium HF4000_19M20				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF4000_36I10				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured gamma proteobacterium HF4000_48E10				0	4	0	0	0	0	0	0	0	4
+Environmental	Bacteria	uncultured Gemmatimonadales bacterium HF0200_34B24				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured Gemmatimonadales bacterium HF0770_41L09				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured Gemmatimonadales bacterium HF4000_15H13				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured Geobacter sp.				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium 105				0	4	0	0	0	0	0	0	0	4
+Environmental	Bacteria	uncultured marine bacterium 106				0	0	0	2	1	0	0	3	0	0
+Environmental	Bacteria	uncultured marine bacterium 159				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium 1k6				0	3	0	0	0	0	0	0	0	3
+Environmental	Bacteria	uncultured marine bacterium 1n22				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured marine bacterium 311				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium 313				0	0	0	4	0	0	0	4	0	0
+Environmental	Bacteria	uncultured marine bacterium 314				0	1	1	8	10	0	0	19	0	1
+Environmental	Bacteria	uncultured marine bacterium 438				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium 441				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium 443				0	1	0	1	0	0	0	1	0	1
+Environmental	Bacteria	uncultured marine bacterium 463				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured marine bacterium 560				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium 561				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium 562				0	0	0	6	3	0	0	9	0	0
+Environmental	Bacteria	uncultured marine bacterium 577				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium 578				0	0	1	2	1	0	0	4	0	0
+Environmental	Bacteria	uncultured marine bacterium 580				0	0	1	2	0	0	0	3	0	0
+Environmental	Bacteria	uncultured marine bacterium 582				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium 583				0	0	1	1	0	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium 66A03				0	0	0	0	3	0	0	3	0	0
+Environmental	Bacteria	uncultured marine bacterium Ant4D3				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium Ant4D5				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured marine bacterium Ant4E12				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	uncultured marine bacterium EB0_35D03				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured marine bacterium EB0_39H12				1	2	3	10	4	0	0	17	0	3
+Environmental	Bacteria	uncultured marine bacterium EB0_49D07				0	0	0	7	2	0	0	9	0	0
+Environmental	Bacteria	uncultured marine bacterium EB0_50A10				0	0	2	0	0	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium EB000_55B11				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium EB80_02D08				0	0	1	3	0	0	0	4	0	0
+Environmental	Bacteria	uncultured marine bacterium EB80_69G07				0	0	5	12	8	0	0	25	0	0
+Environmental	Bacteria	uncultured marine bacterium HF10_05C07				0	0	0	3	3	0	0	6	0	0
+Environmental	Bacteria	uncultured marine bacterium HF10_12C08				0	0	0	7	6	0	0	13	0	0
+Environmental	Bacteria	uncultured marine bacterium HF10_19P19				0	0	1	3	3	0	0	7	0	0
+Environmental	Bacteria	uncultured marine bacterium HF10_25F10				1	0	0	1	2	0	0	3	0	1
+Environmental	Bacteria	uncultured marine bacterium HF10_45G01				0	0	3	7	7	0	0	17	0	0
+Environmental	Bacteria	uncultured marine bacterium HF10_49E08				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured marine bacterium HF130_81H07				0	0	0	1	2	0	0	3	0	0
+Environmental	Bacteria	uncultured marine bacterium HF4000_APKG2098				0	0	0	6	8	0	0	14	0	0
+Environmental	Bacteria	uncultured marine bacterium HF4000_APKG3108				0	0	0	7	2	0	0	9	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S01-C266				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S04-C102				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S04-C13				0	0	1	0	1	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S04-C293				0	0	2	3	0	0	0	5	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S04-C385				0	0	1	1	4	0	0	6	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S04-C448				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S04-C72				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S05-C259				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S05-C362				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S05-C75				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S08-C1068				0	0	1	4	0	0	0	5	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S08-C1340				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S08-C1463				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S08-C1622				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S09-C145				0	0	3	0	2	0	0	5	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S09-C166				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S09-C199				0	0	0	2	1	0	0	3	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S09-C247				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S11-C95				0	3	0	0	0	0	0	0	0	3
+Environmental	Bacteria	uncultured marine bacterium MedDCM-OCT-S12-C289				0	0	0	5	0	0	0	5	0	0
+Environmental	Bacteria	uncultured marine cyanobacterium				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	uncultured marine gamma proteobacterium EB000-45B06				0	0	0	5	2	0	0	7	0	0
+Environmental	Bacteria	uncultured marine gamma proteobacterium EBAC20E09				0	0	4	16	7	0	0	27	0	0
+Environmental	Bacteria	uncultured marine gamma proteobacterium EBAC31A08				0	0	1	17	7	0	0	25	0	0
+Environmental	Bacteria	uncultured marine proteobacterium ANT32C12				0	0	0	6	1	0	0	7	0	0
+Environmental	Bacteria	uncultured marine proteobacterium ANT8C10				0	0	0	4	3	0	0	7	0	0
+Environmental	Bacteria	uncultured marine type-A Synechococcus 4O4				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured marine type-A Synechococcus 5B2				0	0	1	1	0	0	0	2	0	0
+Environmental	Bacteria	uncultured marine type-A Synechococcus GOM 3M9				0	0	1	3	0	0	0	4	0	0
+Environmental	Bacteria	uncultured marine type-A Synechococcus GOM 3O12				0	0	0	1	1	0	0	2	0	0
+Environmental	Bacteria	uncultured marine type-A Synechococcus GOM 3O6				0	0	0	4	0	0	0	4	0	0
+Environmental	Bacteria	uncultured marine type-A Synechococcus GOM 4P21				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured marine type-A Synechococcus GOM 5D20				0	0	0	4	1	0	0	5	0	0
+Environmental	Bacteria	uncultured murine large bowel bacterium BAC 31B				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured myxobacterium HF0010_08B07				0	0	1	5	1	0	0	7	0	0
+Environmental	Bacteria	uncultured myxobacterium HF0200_08J13				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured nuHF1 cluster bacterium HF0130_24M16				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured nuHF1 cluster bacterium HF0130_31E21				0	0	1	1	0	0	0	2	0	0
+Environmental	Bacteria	uncultured nuHF1 cluster bacterium HF0770_35I22				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured nuHF2 cluster bacterium HF0770_19K18				0	0	0	2	0	0	0	2	0	0
+Environmental	Bacteria	uncultured Oceanospirillales bacterium HF0070_21F08				0	0	1	0	0	0	0	1	0	0
+Environmental	Bacteria	uncultured Oceanospirillales bacterium HF0130_06B06				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured Oceanospirillales bacterium HF4000_13G19				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured Oceanospirillales bacterium HF4000_21D01				0	0	0	2	1	0	0	3	0	0
+Environmental	Bacteria	uncultured Oceanospirillales bacterium HF4000_23O15				1	0	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured Planctomycetales bacterium HF0130_29M04				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured Planctomycetales bacterium HF0200_11L05				0	0	0	5	0	0	0	5	0	0
+Environmental	Bacteria	uncultured Planctomycetales bacterium HF0500_02G17				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured Planctomycetales bacterium HF0500_40D21				0	2	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured Planctomycetales bacterium HF0770_03I01				0	0	2	6	8	0	0	16	0	0
+Environmental	Bacteria	uncultured planctomycete 5H12				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured planctomycete 6FN				0	1	0	0	2	0	0	2	0	1
+Environmental	Bacteria	uncultured Poribacteria bacterium 64K2				14	20	0	0	0	0	0	0	0	34
+Environmental	Bacteria	uncultured Prochlorococcus sp.				0	0	1	5	2	0	0	8	0	0
+Environmental	Bacteria	uncultured proteobacterium RedeBAC7D11				0	0	0	4	6	0	0	10	0	0
+Environmental	Bacteria	uncultured Pseudomonadales bacterium HF0010_05E14				0	0	0	0	3	0	0	3	0	0
+Environmental	Bacteria	uncultured Pseudomonadales bacterium HF0500_12O04				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured Rhizobium sp. HF0500_35F13				1	1	0	0	0	0	0	0	0	2
+Environmental	Bacteria	uncultured Rhodobacterales bacterium HF0010_04M21				0	0	0	1	4	0	0	5	0	0
+Environmental	Bacteria	uncultured Rhodobacterales bacterium HF0010_10C01				0	0	0	1	5	0	0	6	0	0
+Environmental	Bacteria	uncultured Rhodobacterales bacterium HF0070_10D05				0	1	1	0	0	0	0	1	0	1
+Environmental	Bacteria	uncultured Rhodospirillales bacterium HF0500_02H05				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured Rhodospirillales bacterium HF0500_23A22				0	1	0	0	1	0	0	1	0	1
+Environmental	Bacteria	uncultured Rhodospirillales bacterium HF4000_24M03				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured Roseobacter sp.				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	uncultured SAR11 cluster bacterium HF4000_37C10				0	0	0	5	4	0	0	9	0	0
+Environmental	Bacteria	uncultured SAR406 cluster bacterium HF0010_18O13				0	0	1	1	0	0	0	2	0	0
+Environmental	Bacteria	uncultured SAR406 cluster bacterium HF4000_22B16				0	0	0	4	0	0	0	4	0	0
+Environmental	Bacteria	uncultured soil bacterium				1	1	0	1	0	0	0	1	0	2
+Environmental	Bacteria	uncultured Sphingobacteriales bacterium HF0130_33B19				0	0	0	0	4	0	0	4	0	0
+Environmental	Bacteria	uncultured Sphingobacterium sp. EB080_L08E11				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	uncultured Spirochaetales bacterium HF0500_06B09				0	0	0	0	2	0	0	2	0	0
+Environmental	Bacteria	uncultured SUP05 cluster bacterium				1	2	2	12	6	0	0	20	0	3
+Environmental	Bacteria	uncultured Synechococcus sp.				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured Verrucomicrobia bacterium				0	3	0	0	0	0	0	0	0	3
+Environmental	Bacteria	uncultured Verrucomicrobiales bacterium HF0200_39L05				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured Verrucomicrobiales bacterium HF4000_13K17				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured verrucomicrobium HF0070_15G23				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	uncultured verrucomicrobium HF0130_25O04				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	uncultured verrucomicrobium HF0500_16O23				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	unidentified eubacterium SCB49				2	6	7	9	28	0	0	44	0	8
+Environmental	Bacteria	Ureaplasma parvum				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Variovorax paradoxus				4	25	3	20	24	0	0	47	0	29
+Environmental	Bacteria	Veillonella atypica				0	0	1	1	2	0	0	4	0	0
+Environmental	Bacteria	Veillonella denticariosi				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Veillonella dispar				0	2	0	0	1	0	0	1	0	2
+Environmental	Bacteria	Veillonella parvula				1	4	0	2	1	0	0	3	0	5
+Environmental	Bacteria	Veillonella sp. 3_1_44				1	1	0	0	1	0	0	1	0	2
+Environmental	Bacteria	Veillonella sp. 6_1_27				1	2	0	2	1	0	0	3	0	3
+Environmental	Bacteria	Veillonella sp. oral taxon 158				0	2	0	0	1	0	0	1	0	2
+Environmental	Bacteria	Verminephrobacter eiseniae				7	10	5	17	7	0	0	29	0	17
+Environmental	Bacteria	Verrucomicrobia bacterium N20				0	1	0	0	0	0	0	0	0	1
+Environmental	Bacteria	Verrucomicrobiae bacterium DG1235				7	32	8	17	30	0	0	55	0	39
+Environmental	Bacteria	Vibrio alginolyticus				0	3	233	46	16	0	0	295	0	3
+Environmental	Bacteria	Vibrio anguillarum				0	0	2	2	0	0	0	4	0	0
+Environmental	Bacteria	Vibrio brasiliensis				0	1	47	15	9	0	0	71	0	1
+Environmental	Bacteria	Vibrio caribbeanicus				1	2	30	12	10	0	0	52	0	3
+Environmental	Bacteria	Vibrio cholerae				6	10	203	90	63	0	0	356	0	16
+Environmental	Bacteria	Vibrio coralliilyticus				2	2	88	37	15	0	0	140	0	4
+Environmental	Bacteria	Vibrio fluvialis				0	0	10	4	0	0	0	14	0	0
+Environmental	Bacteria	Vibrio furnissii				1	2	77	41	8	0	0	126	0	3
+Environmental	Bacteria	Vibrio harveyi				0	9	400	99	38	0	0	537	0	9
+Environmental	Bacteria	Vibrio mediterranei				0	0	77	23	12	0	0	112	0	0
+Environmental	Bacteria	Vibrio metschnikovii				0	3	36	23	8	0	0	67	0	3
+Environmental	Bacteria	Vibrio mimicus				1	1	70	20	16	0	0	106	0	2
+Environmental	Bacteria	Vibrio orientalis				0	1	75	22	9	0	0	106	0	1
+Environmental	Bacteria	Vibrio parahaemolyticus				3	8	349	82	33	0	0	464	0	11
+Environmental	Bacteria	Vibrio sinaloensis				0	0	63	13	6	0	0	82	0	0
+Environmental	Bacteria	Vibrio sp. AND4				1	1	85	19	3	0	0	107	0	2
+Environmental	Bacteria	Vibrio sp. Ex25				0	3	207	39	11	0	0	257	0	3
+Environmental	Bacteria	Vibrio sp. MED222				0	3	69	21	7	0	0	97	0	3
+Environmental	Bacteria	Vibrio sp. RC341				0	3	25	13	5	0	0	43	0	3
+Environmental	Bacteria	Vibrio sp. RC586				0	0	30	7	4	0	0	41	0	0
+Environmental	Bacteria	Vibrio sp. SA0605-25				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Vibrio sp. SA0706-05S				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Vibrio splendidus				0	1	99	24	6	0	0	129	0	1
+Environmental	Bacteria	Vibrio tapetis				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Vibrio vulnificus				3	9	179	46	20	0	0	245	0	12
+Environmental	Bacteria	Vibrionales bacterium SWAT-3				0	3	58	19	1	0	0	78	0	3
+Environmental	Bacteria	Victivallis vadensis				3	8	2	0	1	0	0	3	0	11
+Environmental	Bacteria	Waddlia chondrophila				3	1	1	0	6	0	0	7	0	4
+Environmental	Bacteria	Weeksella virosa				0	2	1	9	9	0	0	19	0	2
+Environmental	Bacteria	Weissella paramesenteroides				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Wolbachia endosymbiont of Brugia malayi				0	0	0	7	7	0	0	14	0	0
+Environmental	Bacteria	Wolbachia endosymbiont of Culex quinquefasciatus				0	0	2	6	3	0	0	11	0	0
+Environmental	Bacteria	Wolbachia endosymbiont of Drosophila ananassae				0	4	1	2	1	0	0	4	0	4
+Environmental	Bacteria	Wolbachia endosymbiont of Drosophila melanogaster				0	1	2	13	11	0	0	26	0	1
+Environmental	Bacteria	Wolbachia endosymbiont of Drosophila simulans				0	0	0	0	1	0	0	1	0	0
+Environmental	Bacteria	Wolbachia endosymbiont of Muscidifurax uniraptor				0	0	0	3	0	0	0	3	0	0
+Environmental	Bacteria	Wolbachia endosymbiont of Rhodnius nasutus				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Wolbachia endosymbiont of Rhodnius neglectus				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Wolbachia endosymbiont of Rhodnius pallescens				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Wolbachia endosymbiont of Rhodnius robustus				0	0	0	1	0	0	0	1	0	0
+Environmental	Bacteria	Wolbachia sp. wRi				0	1	0	5	3	0	0	8	0	1
+Environmental	Bacteria	Xanthobacter autotrophicus				2	18	11	38	24	0	0	73	0	20
+Environmental	Bacteria	Xanthomonas campestris				6	13	3	14	22	0	0	39	0	19
+Environmental	Bacteria	Xanthomonas cissicola				1	16	5	10	15	0	0	30	0	17
+Environmental	Bacteria	Xanthomonas fuscans				0	2	1	5	8	0	0	14	0	2
+Environmental	Bacteria	Xanthomonas oryzae				3	9	1	7	11	0	0	19	0	12
+Environmental	Bacteria	Xylanimonas cellulosilytica				0	2	0	2	6	0	0	8	0	2
+Environmental	Bacteria	Xylella fastidiosa				4	13	5	17	4	0	0	26	0	17
+Environmental	Bacteria	Yersinia aldovae				0	0	2	5	3	0	0	10	0	0
+Environmental	Bacteria	Yersinia bercovieri				0	3	8	3	3	0	0	14	0	3
+Environmental	Bacteria	Yersinia enterocolitica				0	0	1	0	2	0	0	3	0	0
+Environmental	Bacteria	Yersinia frederiksenii				0	4	7	4	4	0	0	15	0	4
+Environmental	Bacteria	Yersinia intermedia				0	0	10	0	1	0	0	11	0	0
+Environmental	Bacteria	Yersinia kristensenii				0	1	5	4	1	0	0	10	0	1
+Environmental	Bacteria	Yersinia mollaretii				1	0	3	5	1	0	0	9	0	1
+Environmental	Bacteria	Yersinia pestis				5	8	47	29	27	0	0	103	0	13
+Environmental	Bacteria	Yersinia rohdei				0	0	4	5	5	0	0	14	0	0
+Environmental	Bacteria	Yersinia ruckeri				0	0	6	5	0	0	0	11	0	0
+Environmental	Bacteria	Zunongwangia profunda				3	15	11	29	46	0	0	86	0	18
+Environmental	Bacteria	Zymomonas mobilis				3	5	9	31	13	0	0	53	0	8
+Environmental	Bacteria	(en blanco)	27598	23165	32509						83272	0	0	0	0
+Environmental	Bacteria	(en blanco)				17	73	93	361	232	0	0	686	0	90
+Environmental	Chromista	Sellaphora pupula	42	0	0						42	0	0	0	0
+Environmental	Chromista	(en blanco)	27	9	39						75	0	0	0	0
+Environmental	Fungi	Absidia repens	13	0	0						13	0	0	0	0
+Environmental	Fungi	Acaulospora lacunosa	0	0	17						17	0	0	0	0
+Environmental	Fungi	Acremonium cavaraeanum	0	58	0						58	0	0	0	0
+Environmental	Fungi	Acremonium flavum	24	0	0						24	0	0	0	0
+Environmental	Fungi	Agaricus bisporus				0	0	0	0	1	0	0	1	0	0
+Environmental	Fungi	Ajellomyces capsulatus				0	10	0	2	2	0	0	4	0	10
+Environmental	Fungi	Alternaria chartarum	509	64	8						581	0	0	0	0
+Environmental	Fungi	Antarctomyces psychrotrophicus	22379	3409	295						26083	0	0	0	0
+Environmental	Fungi	Anungitopsis speciosa	0	22	0						22	0	0	0	0
+Environmental	Fungi	Apiotrichum scarabaeorum	28	0	0						28	0	0	0	0
+Environmental	Fungi	Arthroderma gypseum				0	1	1	0	0	0	0	1	0	1
+Environmental	Fungi	Arthrographis kalrae	15	0	0						15	0	0	0	0
+Environmental	Fungi	Aspergillus caesiellus	208	0	0						208	0	0	0	0
+Environmental	Fungi	Aspergillus clavatus				1	87	1	1	1	0	0	3	0	88
+Environmental	Fungi	Aspergillus fischeri				0	7	0	0	1	0	0	1	0	7
+Environmental	Fungi	Aspergillus flavus				1	5	1	2	0	0	0	3	0	6
+Environmental	Fungi	Aspergillus fumigatus				0	2	1	1	3	0	0	5	0	2
+Environmental	Fungi	Aspergillus nidulans				0	4	1	1	3	0	0	5	0	4
+Environmental	Fungi	Aspergillus terreus				0	0	0	0	3	0	0	3	0	0
+Environmental	Fungi	Aspergillus westerdijkiae	0	50	0						50	0	0	0	0
+Environmental	Fungi	Aureobasidium pullulans	43	0	84						127	0	0	0	0
+Environmental	Fungi	Basidiodendron eyrei	0	86	0						86	0	0	0	0
+Environmental	Fungi	Biscogniauxia latirima	0	28	0						28	0	0	0	0
+Environmental	Fungi	Botryotinia fuckeliana				0	5	0	0	0	0	0	0	0	5
+Environmental	Fungi	Botrytis caroliniana	0	0	38						38	0	0	0	0
+Environmental	Fungi	Campylospora parvula	40	0	0						40	0	0	0	0
+Environmental	Fungi	Candida albicans				2	0	0	2	4	0	0	6	0	2
+Environmental	Fungi	Candida tropicalis	24	0	0	1	0	0	0	0	24	0	0	0	1
+Environmental	Fungi	Chaetomium globosum				3	3	2	0	2	0	0	4	0	6
+Environmental	Fungi	Circinella simplex	0	0	27						27	0	0	0	0
+Environmental	Fungi	Cladosporium cladosporioides	1991	218	48						2257	0	0	0	0
+Environmental	Fungi	Clavispora lusitaniae				0	1	0	2	0	0	0	2	0	1
+Environmental	Fungi	Coccidioides posadasii				2	5	0	0	1	0	0	1	0	7
+Environmental	Fungi	Colletotrichum graminicola				0	1	0	0	0	0	0	0	0	1
+Environmental	Fungi	Coprinopsis cinerea				3	0	0	2	2	0	0	4	0	3
+Environmental	Fungi	Cryptococcus neoformans				0	1	2	1	4	0	0	7	0	1
+Environmental	Fungi	Cryptodiscus epicladonia	0	0	12						12	0	0	0	0
+Environmental	Fungi	Cuniculitrema polymorpha	0	55	0						55	0	0	0	0
+Environmental	Fungi	Curvularia affinis	15	0	0						15	0	0	0	0
+Environmental	Fungi	Cutaneotrichosporon smithiae	70	0	0						70	0	0	0	0
+Environmental	Fungi	Dactylonectria anthuriicola	0	50	0						50	0	0	0	0
+Environmental	Fungi	Dothiorella iberica	0	25	0						25	0	0	0	0
+Environmental	Fungi	Entrophospora infrequens	37	0	0						37	0	0	0	0
+Environmental	Fungi	Eremothecium gossypii				1	0	0	0	0	0	0	0	0	1
+Environmental	Fungi	Erythrobasidium hasegawae	50	0	0						50	0	0	0	0
+Environmental	Fungi	Exophiala bergeri	0	57	0						57	0	0	0	0
+Environmental	Fungi	Exophiala moniliae	0	0	5						5	0	0	0	0
+Environmental	Fungi	Fonsecaea multimorphosa	0	9	0						9	0	0	0	0
+Environmental	Fungi	Furcasterigmium furcatum	13	0	0						13	0	0	0	0
+Environmental	Fungi	Fusarium culmorum				0	1	0	0	0	0	0	0	0	1
+Environmental	Fungi	Fusarium nematophilum	47	0	0						47	0	0	0	0
+Environmental	Fungi	Fusarium oxysporum	254	64	0						318	0	0	0	0
+Environmental	Fungi	Gloeocystidiellum porosum	0	0	22						22	0	0	0	0
+Environmental	Fungi	Gloioxanthomyces vitellinus	0	0	52						52	0	0	0	0
+Environmental	Fungi	Gongronella butleri	63	0	0						63	0	0	0	0
+Environmental	Fungi	Gremmenia infestans	346	101	0						447	0	0	0	0
+Environmental	Fungi	Grosmannia clavigera				1	2	0	0	0	0	0	0	0	3
+Environmental	Fungi	Gyoerffyella entomobryoides	25	0	0						25	0	0	0	0
+Environmental	Fungi	Heydenia alpina	34	0	0						34	0	0	0	0
+Environmental	Fungi	Hyaloraphidium curvatum				0	1	0	0	0	0	0	0	0	1
+Environmental	Fungi	Hyphozyma roseonigra	0	0	56						56	0	0	0	0
+Environmental	Fungi	Hypoxylon anthochroum	24	0	0						24	0	0	0	0
+Environmental	Fungi	Idriella lunata	69	0	0						69	0	0	0	0
+Environmental	Fungi	Issatchenkia orientalis				0	0	0	0	1	0	0	1	0	0
+Environmental	Fungi	Laccaria bicolor				2	0	3	3	3	0	0	9	0	2
+Environmental	Fungi	Leucosporidiella creatinivora	1386	246	0						1632	0	0	0	0
+Environmental	Fungi	Lipomyces kononenkoae	0	0	32						32	0	0	0	0
+Environmental	Fungi	Lipomyces yarrowii	1613	3658	288						5559	0	0	0	0
+Environmental	Fungi	Lodderomyces elongisporus				0	2	0	0	0	0	0	0	0	2
+Environmental	Fungi	Macrophomina phaseolina	38	137	0						175	0	0	0	0
+Environmental	Fungi	Malassezia arunalokei	46	0	0						46	0	0	0	0
+Environmental	Fungi	Malassezia globosa				2	3	0	2	0	0	0	2	0	5
+Environmental	Fungi	Malassezia restricta	0	0	65						65	0	0	0	0
+Environmental	Fungi	Mariannaea catenulatae	26	0	0						26	0	0	0	0
+Environmental	Fungi	Metarhizium anisopliae				1	6	1	1	0	0	0	2	0	7
+Environmental	Fungi	Meyerozyma guilliermondii				1	0	0	1	0	0	0	1	0	1
+Environmental	Fungi	Microdochium phragmitis	35	0	0						35	0	0	0	0
+Environmental	Fungi	Moesziomyces aphidis	0	94	0						94	0	0	0	0
+Environmental	Fungi	Moniliophthora perniciosa				1	0	0	0	2	0	0	2	0	1
+Environmental	Fungi	Mortierella antarctica	44	0	0						44	0	0	0	0
+Environmental	Fungi	Mortierella basiparvispora	77	0	0						77	0	0	0	0
+Environmental	Fungi	Mortierella chlamydospora	249	4746	310						5305	0	0	0	0
+Environmental	Fungi	Mortierella fimbricystis	564	238	0						802	0	0	0	0
+Environmental	Fungi	Mortierella gamsii	2910	1866	0						4776	0	0	0	0
+Environmental	Fungi	Mortierella humilis	13467	1958	1695						17120	0	0	0	0
+Environmental	Fungi	Mortierella hyalina	109	99	0						208	0	0	0	0
+Environmental	Fungi	Mortierella parvispora	0	137	0						137	0	0	0	0
+Environmental	Fungi	Mortierella turficola	787	398	97						1282	0	0	0	0
+Environmental	Fungi	Mrakia frigida	287	0	0						287	0	0	0	0
+Environmental	Fungi	Mucor circinelloides	7	0	0						7	0	0	0	0
+Environmental	Fungi	Naganishia friedmannii	13	0	0						13	0	0	0	0
+Environmental	Fungi	Nannizzia otae				1	1	0	0	1	0	0	1	0	2
+Environmental	Fungi	Neoascochyta paspali	1563	328	11						1902	0	0	0	0
+Environmental	Fungi	Neocallimastix sp. W-1				0	1	0	0	0	0	0	0	0	1
+Environmental	Fungi	Neocosmospora solani				0	0	0	1	1	0	0	2	0	0
+Environmental	Fungi	Neurospora crassa				0	3	0	1	1	0	0	2	0	3
+Environmental	Fungi	Nosema ceranae				2	1	0	2	1	0	0	3	0	3
+Environmental	Fungi	Ophiocordyceps unilateralis				0	1	0	0	0	0	0	0	0	1
+Environmental	Fungi	Papiliotrema flavescens	40	238	28						306	0	0	0	0
+Environmental	Fungi	Paracoccidioides brasiliensis				2	41	0	2	1	0	0	3	0	43
+Environmental	Fungi	Paraglomus brasilianum	0	55	0						55	0	0	0	0
+Environmental	Fungi	Paraglomus occultum	0	1177	11						1188	0	0	0	0
+Environmental	Fungi	Penicillium melinii	0	102	0						102	0	0	0	0
+Environmental	Fungi	Penicillium spinulosum	275	0	0						275	0	0	0	0
+Environmental	Fungi	Pezoloma ericae	42	37	0						79	0	0	0	0
+Environmental	Fungi	Phaeosphaeria nodorum				0	1	0	0	0	0	0	0	0	1
+Environmental	Fungi	Phaeotremella foliacea	0	0	97						97	0	0	0	0
+Environmental	Fungi	Phenoliferia psychrophila	241	143	0						384	0	0	0	0
+Environmental	Fungi	Piskurozyma cylindrica	537	0	0						537	0	0	0	0
+Environmental	Fungi	Pluteus spinulosus	117	0	0						117	0	0	0	0
+Environmental	Fungi	Pneumocystis carinii				0	0	0	1	0	0	0	1	0	0
+Environmental	Fungi	Podospora cochleariformis	0	0	11						11	0	0	0	0
+Environmental	Fungi	Puccinia graminis				2	0	0	0	1	0	0	1	0	2
+Environmental	Fungi	Purpureocillium lilacinum	89	294	31						414	0	0	0	0
+Environmental	Fungi	Pyrenophora teres				0	3	0	0	0	0	0	0	0	3
+Environmental	Fungi	Pyrenophora tritici-repentis				1	3	0	1	0	0	0	1	0	4
+Environmental	Fungi	Pyricularia oryzae				0	1	0	1	0	0	0	1	0	1
+Environmental	Fungi	Pyrigemmula aurantiaca	9	0	0						9	0	0	0	0
+Environmental	Fungi	Ramicandelaber taiwanensis	0	40	0						40	0	0	0	0
+Environmental	Fungi	Remersonia thermophila	30	0	0						30	0	0	0	0
+Environmental	Fungi	Rhexocercosporidium panacis	627	247	29						903	0	0	0	0
+Environmental	Fungi	Rhizophagus clarus	0	48	22						70	0	0	0	0
+Environmental	Fungi	Rhodonia placenta				1	1	0	0	0	0	0	0	0	2
+Environmental	Fungi	Rhodotorula mucilaginosa	363	56	0						419	0	0	0	0
+Environmental	Fungi	Rigidoporus sanguinolentus	35	0	0						35	0	0	0	0
+Environmental	Fungi	Saccharomyces cerevisiae				2	4	0	0	2	0	0	2	0	6
+Environmental	Fungi	Saccharomyces paradoxus				0	1	0	0	0	0	0	0	0	1
+Environmental	Fungi	Saitozyma podzolica	715	3550	489						4754	0	0	0	0
+Environmental	Fungi	Sampaiozyma ingeniosa	48	0	0						48	0	0	0	0
+Environmental	Fungi	Scheffersomyces stipitis				0	23	0	0	1	0	0	1	0	23
+Environmental	Fungi	Schizophyllum commune				2	7	0	2	1	0	0	3	0	9
+Environmental	Fungi	Sclerotinia sclerotiorum				1	0	0	0	3	0	0	3	0	1
+Environmental	Fungi	Scolecobasidium constrictum	33	0	0						33	0	0	0	0
+Environmental	Fungi	Scytalidium lignicola	0	48	0						48	0	0	0	0
+Environmental	Fungi	Solicoccozyma keelungensis	0	0	29						29	0	0	0	0
+Environmental	Fungi	Staphylotrichum boninense	0	48	0						48	0	0	0	0
+Environmental	Fungi	Strelitziana africana	10	0	0						10	0	0	0	0
+Environmental	Fungi	Sugiyamaella boreocaroliniensis	52	0	0						52	0	0	0	0
+Environmental	Fungi	Talaromyces aculeatus	128	66	0						194	0	0	0	0
+Environmental	Fungi	Talaromyces columbiensis	34	102	31						167	0	0	0	0
+Environmental	Fungi	Talaromyces marneffei				2	0	0	0	1	0	0	1	0	2
+Environmental	Fungi	Talaromyces stipitatus				13	3	0	0	2	0	0	2	0	16
+Environmental	Fungi	Teratosphaericola pseudoafricana	0	37	0						37	0	0	0	0
+Environmental	Fungi	Thelebolus globosus	597	279	0						876	0	0	0	0
+Environmental	Fungi	Triangularia anserina				0	1	0	0	0	0	0	0	0	1
+Environmental	Fungi	Trichobolus zukalii	97	0	0						97	0	0	0	0
+Environmental	Fungi	Trichoderma hamatum	0	83	0						83	0	0	0	0
+Environmental	Fungi	Trichoderma spirale	0	0	16						16	0	0	0	0
+Environmental	Fungi	Trichophyton benhamiae				0	0	0	1	0	0	0	1	0	0
+Environmental	Fungi	Trichophyton verrucosum				0	0	0	0	1	0	0	1	0	0
+Environmental	Fungi	Trichothecium ovalisporum	8	0	0						8	0	0	0	0
+Environmental	Fungi	Typhula micans	0	72	0						72	0	0	0	0
+Environmental	Fungi	Umbelopsis isabellina	0	1132	38						1170	0	0	0	0
+Environmental	Fungi	Uncinocarpus reesii				0	5	1	0	0	0	0	1	0	5
+Environmental	Fungi	Ustilago maydis				0	0	1	3	0	0	0	4	0	0
+Environmental	Fungi	Vanderwaltozyma polyspora				0	0	1	0	3	0	0	4	0	0
+Environmental	Fungi	Veronaeopsis simplex	12	68	0						80	0	0	0	0
+Environmental	Fungi	Verticillium albo-atrum				3	0	0	0	0	0	0	0	0	3
+Environmental	Fungi	Vishniacozyma victoriae	82	0	0						82	0	0	0	0
+Environmental	Fungi	Zymonema dermatitidis				0	4	0	0	0	0	0	0	0	4
+Environmental	Fungi	Zymoseptoria tritici				0	2	0	0	0	0	0	0	0	2
+Environmental	Fungi	(en blanco)	103316	88101	151275						342692	0	0	0	0
+Environmental	Metazoa	Lepidocyrtus koreanus	0	18	0						18	0	0	0	0
+Environmental	Metazoa	Rhynchoscolex simplex	0	0	27						27	0	0	0	0
+Environmental	Metazoa	(en blanco)	18	21	0						39	0	0	0	0
+Environmental	Plantae	Alsophila gigantea	91	0	142						233	0	0	0	0
+Environmental	Plantae	Begonia cathayana	161	0	44						205	0	0	0	0
+Environmental	Plantae	Campylopus oerstedianus	0	107	0						107	0	0	0	0
+Environmental	Plantae	Diplosphaera colitermitum				4	6	0	6	14	0	0	20	0	10
+Environmental	Plantae	Eremochloris sphaerica	0	101	0						101	0	0	0	0
+Environmental	Plantae	Vachellia gummifera	35	0	0						35	0	0	0	0
+Environmental	Plantae	(en blanco)	55	229	0						284	0	0	0	0
+Environmental	Protozoa	Eocercomonas echina	0	0	7						7	0	0	0	0
+Environmental	Protozoa	(en blanco)	0	34	20						54	0	0	0	0
